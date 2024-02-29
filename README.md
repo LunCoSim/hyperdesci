@@ -1,12 +1,15 @@
 # HyperDeSci 🧠🔬📖 by LunCo
 
 To urge space exploration, and building sustainable tourists settlement on the Moon, LunCo is starting the initiative HyperDeSci with the final goal of summoning a web3 hyperstructure that would fuel DeSci project
+#### **---Matching Pool $5000+---** 
 
 **[Join our Channel on Telegram for Latest Updates](https://t.me/hyperdesci)**
 
 [More details](https://github.com/LunCoSim/hyperdesci)
 
 ## First HyperDeSci QF round 
+
+
 
 1. Multichain - the round will be run simultaneously on several chains
 2. Each chain has it's own matching fund, initially LunCo would support with $1000
