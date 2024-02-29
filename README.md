@@ -43,11 +43,11 @@ The easiest way to bridge money across chains to pay for gas for application is 
 
 ### MultiSigs
 
-1. zkSync
-2. Scroll
-3. Polygon
-4. Optimism
-5. Arbitrum
+1. [zkSync](https://explorer.zksync.io/address/0x5e6C24186242655843E6dAF02080F864D3E42791)
+2. [Scroll (Safe on Scroll)](https://scrollscan.com/address/0x93221BB4f1406Bd9e612593D39a4030441bA2190)
+3. [Polygon](https://polygonscan.com/address/0x4eFf1D9F303b157ABf72b48E07aD8E603f916691)
+4. [Optimism](https://optimistic.etherscan.io/address/0xe9a6F113622D735355174cAF74d51165591AC6be)
+5. [Arbitrum](https://arbiscan.io/address/0x4eFf1D9F303b157ABf72b48E07aD8E603f916691)
 ## Links
 
 1. [Telegram Channel with news](https://t.me/hyperdesci)
