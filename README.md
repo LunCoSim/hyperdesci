@@ -1,15 +1,12 @@
-# HyperDeSci by LunCo
+# HyperDeSci 🧠🔬📖 by LunCo
 
-To urge space exploration LunCo is starting the initiative HyperDeSci with the final goal of summoning a web3 hyperstructure that would fuel DeSci project
+To urge space exploration, and building sustainable tourists settlement on the Moon, LunCo is starting the initiative HyperDeSci with the final goal of summoning a web3 hyperstructure that would fuel DeSci project
 
-To achieve LunCo's mission - building sustainable tourists settlement on the Moon - tons of technologies has to be created. 
-
-And projects working on DeSci works on those technologies. 
-
+**[Join our Channel on Telegram for Latest Updates](https://t.me/hyperdesci)**
 ## First HyperDeSci QF round 
 
 1. Multichain - the round will be run simultaneously on several chains
-2. Each chain has it's own matching fund, initially LunCo would support with $1000
+2. Each chain has it's own matching fund, initially LunCo would support with 1000 $GLOUSD
 3. LunCo would work on getting more funds and sponsors
 4. Round dates: March 10 - April 1
 
@@ -21,9 +18,15 @@ LunCo team would propose general framework for future rounds, while for the firs
 
 ### Sponsorship
 
-Sponsors who donate significant amount of money to matching pool would be highleghted during the round
+Sponsors who donate significant amount of money to matching pool would be highlighted during the round
 
-### Apply to rounds
+## Rules
+
+1. No Quid Pro Quo for your project, but grantees are highly welcomed to incentivise donations to the whole round e.g. by issuing NFT to ALL THE DONORS TO THE ROUND
+2. Sponsor's projects are highly welcomed to apply to the round
+3. The votes would be reviewed for Sybil attacks by LunCo's team and discussed with all the grantees before the payouts
+4. Support each other grants, shill each other projects, get as much attention to DeSci as possible!!!
+### Application process
 
 If you do not have project on Gitcoin you'll have to create it. [Guide](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder)
 
@@ -35,11 +38,28 @@ Once the project created you'll have to apply with it to all the rounds on all t
 
 The easiest way to bridge money across chains to pay for gas for application is to use [MiniBridge by ChainEye](https://minibridge.chaineye.tools/invite/PUQPQ). We suggest to bridge at least $5 
 
-1. zkSync
+### Links to Apply to Rounds
+
+1. [zkSync]()
 2. Scroll
 3. Polygon
 4. Optimism
-5. Arbitrum
+5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
+
+### Links to Live Rounds to Donate
+
+1. [zkSync]()
+2. Scroll
+3. Polygon
+4. Optimism
+5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
+### Links to Report Cards with Rounds stats
+
+1. [zkSync]()
+2. Scroll
+3. Polygon
+4. Optimism
+5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
 
 ### MultiSigs
 
