@@ -42,17 +42,17 @@ The easiest way to bridge money across chains to pay for gas for application is 
 
 ### Links to Apply to Rounds
 
-1. [zkSync]()
-2. Scroll
-3. [Polygon]()
+1. [zkSync](https://builder.gitcoin.co/#/chains/324/rounds/0xa26d3e503c1554d64c94ef2afe943575d8648960)
+2. [Scroll](https://builder.gitcoin.co/#/chains/534352/rounds/0xddd305594dc560e1177f18da8329136936ce1f43)
+3. [Polygon](https://builder.gitcoin.co/#/chains/137/rounds/0x0936de3fc187bdc3059a0a893c1cabe5384c418a)
 4. [Optimism](https://builder.gitcoin.co/#/chains/10/rounds/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
 5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
 
 ### Links to Live Rounds to Donate
 
-1. [zkSync]()
-2. Scroll
-3. [Polygon]()
+1. [zkSync](https://explorer.gitcoin.co/#/round/324/0xa26d3e503c1554d64c94ef2afe943575d8648960)
+2. [Scroll](https://explorer.gitcoin.co/#/round/534352/0xddd305594dc560e1177f18da8329136936ce1f43)
+3. [Polygon](https://explorer.gitcoin.co/#/round/137/0x0936de3fc187bdc3059a0a893c1cabe5384c418a)
 4. [Optimism](https://explorer.gitcoin.co/#/round/10/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
 5. [Arbitrum](https://explorer.gitcoin.co/#/round/42161/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
 ### Links to Report Cards with Rounds stats
@@ -65,9 +65,9 @@ The easiest way to bridge money across chains to pay for gas for application is 
 
 ### Programs links on Gitcoin
 
-1. [zkSync]()
-2. Scroll
-3. [Polygon]()
+1. [zkSync](https://manager.gitcoin.co/#/program/0x2f8c22345d69d0d4246f11f72b90be6d52a13a12)
+2. [Scroll](https://manager.gitcoin.co/#/program/0xc9baae307b6e77285b377f1497a341f1434e2c84)
+3. [Polygon](https://manager.gitcoin.co/#/program/0x48f098076ada3354a979aca70321c0ec9a38ed3b)
 4. [Optimism](https://manager.gitcoin.co/#/program/0x516d6c620ae8999629ccd5f6da55644eacdb7ded)
 5. [Arbitrum](https://manager.gitcoin.co/#/program/0x76c0032874f892ce749f1e5d5af0b5db2cfb5efa)
 ### MultiSigs
