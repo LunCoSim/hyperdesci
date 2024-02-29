@@ -1,0 +1,1 @@
+1. EcoSynthesisX commited $250 on each chain to matching pool and will add HyperDeSci to it's rounds
