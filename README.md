@@ -3,6 +3,8 @@
 To urge space exploration, and building sustainable tourists settlement on the Moon, LunCo is starting the initiative HyperDeSci with the final goal of summoning a web3 hyperstructure that would fuel DeSci project
 
 **[Join our Channel on Telegram for Latest Updates](https://t.me/hyperdesci)**
+
+[More details](https://github.com/LunCoSim/hyperdesci)
 ## First HyperDeSci QF round 
 
 1. Multichain - the round will be run simultaneously on several chains
@@ -42,17 +44,17 @@ The easiest way to bridge money across chains to pay for gas for application is 
 
 1. [zkSync]()
 2. Scroll
-3. Polygon
-4. Optimism
-5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
+3. [Polygon]()
+4. [Optimism](https://builder.gitcoin.co/#/chains/10/rounds/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
+5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
 
 ### Links to Live Rounds to Donate
 
 1. [zkSync]()
 2. Scroll
-3. Polygon
-4. Optimism
-5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
+3. [Polygon]()
+4. [Optimism](https://explorer.gitcoin.co/#/round/10/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
+5. [Arbitrum](https://explorer.gitcoin.co/#/round/42161/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
 ### Links to Report Cards with Rounds stats
 
 1. [zkSync]()
@@ -61,6 +63,13 @@ The easiest way to bridge money across chains to pay for gas for application is 
 4. Optimism
 5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
 
+### Programs links on Gitcoin
+
+1. [zkSync]()
+2. Scroll
+3. [Polygon]()
+4. [Optimism](https://manager.gitcoin.co/#/program/0x516d6c620ae8999629ccd5f6da55644eacdb7ded)
+5. [Arbitrum](https://manager.gitcoin.co/#/program/0x76c0032874f892ce749f1e5d5af0b5db2cfb5efa)
 ### MultiSigs
 
 1. [zkSync](https://explorer.zksync.io/address/0x5e6C24186242655843E6dAF02080F864D3E42791)
