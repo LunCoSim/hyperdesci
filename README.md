@@ -25,6 +25,14 @@ Sponsors who donate significant amount of money to matching pool would be highle
 
 ### Apply to rounds
 
+If you do not have project on Gitcoin you'll have to create it. [Guide](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder)
+
+We suggest to create a project on Optimism or Polygon chain as it's the cheapest chains, and it'll be easy to edit the project.
+
+Once the project created you'll have to apply with it to all the rounds on all the chain. 
+
+**YOU DO NOT HAVE TO RECREATE THE PROJECT ON ALL CHAINS, USE THE ONE YOU CREATED**
+
 The easiest way to bridge money across chains to pay for gas for application is to use [MiniBridge by ChainEye](https://minibridge.chaineye.tools/invite/PUQPQ). We suggest to bridge at least $5 
 
 1. zkSync
@@ -43,9 +51,9 @@ The easiest way to bridge money across chains to pay for gas for application is 
 ## Links
 
 1. [Telegram Channel with news](https://t.me/hyperdesci)
-2. Main repo with all the info
+2. [Main repo with all the info](https://github.com/LunCoSim/hyperdesci)
 
 ### About QF
-1. Wtf is QF
-2. What is gitcoin
-3. How to create project on builder
+1. [Wtf is QF](https://qf.gitcoin.co/?grant=&grant=&grant=&grant=&match=1000)
+2. [What is gitcoin](https://messari.io/project/gitcoin-2/profile)
+3. [How to create project on builder](https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-grants-program/project-owners/how-to-create-a-project-in-builder)
