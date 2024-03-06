@@ -1,7 +1,7 @@
 # HyperDeSci 🧠🔬📖 by LunCo
 
 To urge space exploration, and building sustainable tourists settlement on the Moon, LunCo is starting the initiative HyperDeSci with the final goal of summoning a web3 hyperstructure that would fuel DeSci project
-#### **---Matching Pool $5000+---** 
+#### **---Matching Pool $6750+---** 
 
 **[Join our Channel on Telegram for Latest Updates](https://t.me/hyperdesci)**
 
@@ -9,13 +9,10 @@ To urge space exploration, and building sustainable tourists settlement on the M
 
 ## First HyperDeSci QF round 
 
-
-
 1. Multichain - the round will be run simultaneously on several chains
 2. Each chain has it's own matching fund, initially LunCo would support with $1000
 3. LunCo would work on getting more funds and sponsors
 4. Round dates: March 12 00:00 UTC - April 2 00:00 UTC
-
 ### Eligibility criteria
 
 Be serious DeSci project. 
@@ -77,7 +74,7 @@ The easiest way to bridge money across chains to pay for gas for application is 
 4. [Optimism](https://manager.gitcoin.co/#/program/0x516d6c620ae8999629ccd5f6da55644eacdb7ded)
 5. [Arbitrum](https://manager.gitcoin.co/#/program/0x76c0032874f892ce749f1e5d5af0b5db2cfb5efa)
 
-## MultiSigs
+## LunCo's HyperDeSci MultiSigs
 
 1. [zkSync](https://explorer.zksync.io/address/0x5e6C24186242655843E6dAF02080F864D3E42791)
 2. [Scroll (Safe on Scroll)](https://scrollscan.com/address/0x93221BB4f1406Bd9e612593D39a4030441bA2190)
@@ -89,6 +86,7 @@ The easiest way to bridge money across chains to pay for gas for application is 
 
 1. [Telegram Channel with news](https://t.me/hyperdesci)
 2. [Main repo with all the info](https://github.com/LunCoSim/hyperdesci)
+3. [DeWork with tasks](https://app.dework.xyz/hyperdesci)
 
 ## About QF
 
