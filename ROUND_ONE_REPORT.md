@@ -6,17 +6,17 @@
 **Total raised:** $3855
 **Total Contributions:** 4586
 
-*Note: information is preliminary and being updated*
+*Note: information is preliminary and being updated, it's not clear why total contributions is not matches yet*
 ### Total stats by chains
 
-| Chain     | Contributors | Contributions | Donated $   | Projects Count |
-| --------- | ------------ | ------------- | ----------- | -------------- |
-| zkSync    | $1063$       | 3044          | 2469.83     | 18             |
-| Polygon   | $250$        | 1831          | 1056.39     | 18             |
-| Scroll    | $23$         | 135           | 167.20      | 10             |
-| Optimism  | $14$         | 38            | 116.88      | 20             |
-| Arbitrum  | $19$         | 103           | 132.37      | 16             |
-| **Total** | **781**      | **3441**      | **2547.09** |                |
+| Chain     | Contributors | Contributions | Donated $ | Projects Count |
+| --------- | ------------ | ------------- | --------- | -------------- |
+| zkSync    | $1063$       | 3044          | 2469.83   | 18             |
+| Polygon   | $250$        | 1831          | 1056.39   | 18             |
+| Scroll    | $23$         | 135           | 167.20    | 10             |
+| Optimism  | $14$         | 38            | 116.88    | 20             |
+| Arbitrum  | $19$         | 103           | 132.37    | 16             |
+| **Total** | **781**      | **5251**      | **3940**  |                |
 ### Total stats by projects
 
 (amount, contributions)
