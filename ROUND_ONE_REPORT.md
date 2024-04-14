@@ -3,6 +3,7 @@
 **Sponsors:** LunCo ($5000), EcoSynthesisX ($1250), Regen Design Agency ($500)
 **Dates:** 2024/03/12 - 2024/04/02
 **Chains:** zkSync Era, Polygon, Scroll, Optimism, Arbitrum
+**Total projects:** 24 
 **Total raised:** $3855
 **Total Contributions:** 4586
 
@@ -16,7 +17,7 @@
 | Scroll    | $23$         | 135           | 167.20    | 10             |
 | Optimism  | $14$         | 38            | 116.88    | 20             |
 | Arbitrum  | $19$         | 103           | 132.37    | 16             |
-| **Total** | **781**      | **5251**      | **3940**  |                |
+| **Total** | **1369**     | **5251**      | **3940**  |                |
 ### Total stats by projects
 
 (amount, contributions)
