@@ -66,6 +66,6 @@
 2. [Scroll](https://reportcards.gitcoin.co/534352/0xddd305594dc560e1177f18da8329136936ce1f43)
 3. [Polygon](https://reportcards.gitcoin.co/137/0x0936de3fc187bdc3059a0a893c1cabe5384c418a)
 4. [Optimism](https://reportcards.gitcoin.co/10/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
-5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
+5. [Arbitrum](https://reportcards.gitcoin.co/42161/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
 
 
