@@ -1,6 +1,6 @@
 # HyperDesci Round One Preliminary Report 
 
-**Sponsors:** LunCo ($5000), EcoSynthesisX ($1250), Regen Design Agency ($500)
+**Sponsors:** LunCo ($5000), EcoSynthesisX ($1250, transaction 1, transaction 2), Regen Design Agency ($500)
 **Dates:** 2024/03/12 - 2024/04/02
 **Chains:** zkSync Era, Polygon, Scroll, Optimism, Arbitrum
 **Total projects:** 24 
@@ -8,6 +8,13 @@
 **Total Contributions:** 4586
 
 *Note: information is preliminary and being updated, it's not clear why total contributions is not matches yet*
+
+The funds after Sybil detection will distributed according to Gitcoin suggested distribution to saturation, the rest funds are moved to the Round Two
+
+### Payout transactions
+
+1. [Optimism](https://optimistic.etherscan.io/tx/0xbdd8ca3f2c4e453f9c3e6267a2bebdc321c73f15b203361f4ebe64ee1acf1418)
+2. [Arbitrum](https://arbiscan.io/tx/0x450a657470d7217736562f136f69288cfcf89b2e41b4a536831fae9814cceaf3)
 ### Total stats by chains
 
 | Chain     | Contributors | Contributions | Donated $ | Projects Count |
@@ -18,6 +25,19 @@
 | Optimism  | $14$         | 38            | 116.88    | 20             |
 | Arbitrum  | $19$         | 103           | 132.37    | 16             |
 | **Total** | **1369**     | **5251**      | **3940**  |                |
+### Rounds stats
+
+| Chain     | Saturation | Adj Matching | Round 2 $ |
+| --------- | ---------- | ------------ | --------- |
+| zkSync    | 100        | 1750         | 0         |
+| Polygon   | 100        | 1250         | 0         |
+| Scroll    | 74.63%     | 746.3770*    | 1250      |
+| Optimism  | 13.51%     | 135.1755     | 1114.8245 |
+| Arbitrum  | 57.87%     | 578.7879     | 671.2121  |
+| **Total** |            | 3713.7879    |           |
+|           |            |              |           |
+*Scroll was buggy so not all projects who applied were accepted, so it's let's move it to the next round
+
 ### Total stats by projects
 
 (amount, contributions)
