@@ -8,6 +8,7 @@ To make the HyperDeSci self-sustainable lot's of activities must be done systema
 2. Fundraising
 3. Marketing
 4. Operations
+5. AniSybil
 
 ### Projects eligibility
 
@@ -48,3 +49,8 @@ If someone fundraises and can prove it to community, it could be something like 
 
 1. Accepting projects 
 2. Token management
+
+### AntiSybil
+
+1. Rewards for the team who does it
+2. Done in public, e.g. anyone who willl find and prove sybils should be rewarded
