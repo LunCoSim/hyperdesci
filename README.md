@@ -42,29 +42,9 @@ Once the project created you'll have to apply with it to all the rounds on all t
 
 The easiest way to bridge money across chains to pay for gas for application is to use [MiniBridge by ChainEye](https://minibridge.chaineye.tools/invite/PUQPQ). We suggest to bridge at least $5 
 
-## Links to Apply to Rounds
+## Rounds reports
 
-1. [zkSync](https://builder.gitcoin.co/#/chains/324/rounds/0xa26d3e503c1554d64c94ef2afe943575d8648960)
-2. [Scroll](https://builder.gitcoin.co/#/chains/534352/rounds/0xddd305594dc560e1177f18da8329136936ce1f43)
-3. [Polygon](https://builder.gitcoin.co/#/chains/137/rounds/0x0936de3fc187bdc3059a0a893c1cabe5384c418a)
-4. [Optimism](https://builder.gitcoin.co/#/chains/10/rounds/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
-5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
-
-## Links to Live Rounds to Donate
-
-1. [zkSync](https://explorer.gitcoin.co/#/round/324/0xa26d3e503c1554d64c94ef2afe943575d8648960)
-2. [Scroll](https://explorer.gitcoin.co/#/round/534352/0xddd305594dc560e1177f18da8329136936ce1f43)
-3. [Polygon](https://explorer.gitcoin.co/#/round/137/0x0936de3fc187bdc3059a0a893c1cabe5384c418a)
-4. [Optimism](https://explorer.gitcoin.co/#/round/10/0x9b9c6a72a8d7cdcc3bc244502ed4707218ce8b14)
-5. [Arbitrum](https://explorer.gitcoin.co/#/round/42161/0x1b96ad9da78cf768e9b5f0bb508cecc3d353d740)
-
-## Links to Report Cards with Rounds stats
-
-1. [zkSync]()
-2. Scroll
-3. Polygon
-4. Optimism
-5. [Arbitrum](https://builder.gitcoin.co/#/chains/42161/rounds/0x29c473569d27ce9fcea5dd93450d4bdf7b850bca)
+1. [Round One](./ROUND_ONE_REPORT.MD)
 
 ## Programs links on Gitcoin
 
@@ -81,6 +61,7 @@ The easiest way to bridge money across chains to pay for gas for application is 
 3. [Polygon](https://polygonscan.com/address/0x4eFf1D9F303b157ABf72b48E07aD8E603f916691)
 4. [Optimism](https://optimistic.etherscan.io/address/0xe9a6F113622D735355174cAF74d51165591AC6be)
 5. [Arbitrum](https://arbiscan.io/address/0x4eFf1D9F303b157ABf72b48E07aD8E603f916691)
+6. [Base](https://app.safe.global/home?safe=base:0xC87792444278F701dD359bAE694C4b99757608f6)
 
 ## Links
 
