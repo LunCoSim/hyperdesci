@@ -1,7 +1,6 @@
 # HyperDesci Round One Preliminary Report 
 
-**Sponsors:** LunCo ($5000), EcoSynthesisX ($1250, transaction 1, transaction 2), Regen Design Agency ($500)
-**Dates:** 2024/03/12 - 2024/04/02
+**Sponsors:** LunCo ($5000), EcoSynthesisX ($1250, [transaction 1](https://optimistic.etherscan.io/tx/0xd793df535b1167a4cfb43dc51540b88ff1ca2336d0e007c00455aa1c4b27a663), [transaction 2](https://optimistic.etherscan.io/tx/0xe8a0b9fec3a1f7ec958543bb8c9c40d03e412419cf9ed98ac77d4b2b9552591d)), Regen Design Agency ($500 ([transaction 1](https://polygonscan.com/tx/0x0f87527baddb63a2830634f180671a0f415ba5f0059bc953ab8ec581074d2ce0), [transaction 2](https://polygonscan.com/tx/0xeec8d6dd3940f9bc6f822a3110a0b31775f7c831ace4bbd9f90bc8627b637b43), [transaction 3](https://polygonscan.com/tx/0x8125c6b906fb22db3dc45c65be0abecb42c668a9502ebd98d47462d2b2e587cb))
 **Chains:** zkSync Era, Polygon, Scroll, Optimism, Arbitrum
 **Total projects:** 24 
 **Total raised:** $3855
@@ -15,6 +14,8 @@ The funds after Sybil detection will distributed according to Gitcoin suggested 
 
 1. [Optimism](https://optimistic.etherscan.io/tx/0xbdd8ca3f2c4e453f9c3e6267a2bebdc321c73f15b203361f4ebe64ee1acf1418)
 2. [Arbitrum](https://arbiscan.io/tx/0x450a657470d7217736562f136f69288cfcf89b2e41b4a536831fae9814cceaf3)
+3. [Polygon]()
+4. [zkSync](https://explorer.zksync.io/tx/0xb353fbe848c80f2252b9c952c696b970a89c67210b357ba92f72cf9a3dc8fcd7)
 ### Total stats by chains
 
 | Chain     | Contributors | Contributions | Donated $ | Projects Count |
@@ -27,17 +28,17 @@ The funds after Sybil detection will distributed according to Gitcoin suggested 
 | **Total** | **1369**     | **5251**      | **3940**  |                |
 ### Rounds stats
 
-| Chain     | Saturation | Adj Matching | Round 2 $ |
-| --------- | ---------- | ------------ | --------- |
-| zkSync    | 100        | 1750         | 0         |
-| Polygon   | 100        | 1250         | 0         |
-| Scroll    | 74.63%     | 746.3770*    | 1250      |
-| Optimism  | 13.51%     | 135.1755     | 1114.8245 |
-| Arbitrum  | 57.87%     | 578.7879     | 671.2121  |
-| **Total** |            | 3713.7879    |           |
-|           |            |              |           |
-*Scroll was buggy so not all projects who applied were accepted, so it's let's move it to the next round
-
+| Chain     | Saturation | Original Pool | Adj Matching | Round 2 $ |
+| --------- | ---------- | ------------- | ------------ | --------- |
+| zkSync    | 100        | 1750          | 1000**       | 750       |
+| Polygon   | 100        | 1250          | 1250         | 0         |
+| Scroll    | 74.63%     | 1250          | 0*           | 1250      |
+| Optimism  | 13.51%     | 1250          | 135.1755     | 1114.8245 |
+| Arbitrum  | 57.87%     | 1250          | 578.7879     | 671.2121  |
+| **Total** |            |               | 2963         | 3785      |
+|           |            |               |              |           |
+\*Scroll was buggy so not all projects who applied were accepted, so it's let's move it to the next round
+\** There was a minor bug on gitcoin on ZKSync not all funds were distributed, the left was moved back to treasury
 ### Total stats by projects
 
 (amount, contributions)
