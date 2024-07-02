@@ -5,6 +5,7 @@
 **Total projects:** 24 
 **Total raised:** $3855
 **Total Contributions:** 4586
+**Dates**: April 16 - May 2
 
 *Note: information is preliminary and being updated, it's not clear why total contributions is not matches yet*
 
@@ -25,7 +26,7 @@ The funds after Sybil detection will distributed according to Gitcoin suggested 
 | Scroll    | $23$         | 135           | 167.20    | 10             |
 | Optimism  | $14$         | 38            | 116.88    | 20             |
 | Arbitrum  | $19$         | 103           | 132.37    | 16             |
-| **Total** | **1369**     | **5251**      | **3940**  |                |
+| **Total** | **1369**     | **5251**      | **3940**  | 24 (unique)    |
 ### Rounds stats
 
 | Chain     | Saturation | Original Pool | Adj Matching | Round 2 $ |
@@ -44,33 +45,34 @@ The funds after Sybil detection will distributed according to Gitcoin suggested 
 (amount, contributions)
 *results are floored, blank cell - the project were not on the chain*
 
-| Project                                                                | zkSync      | Polygon     | Scroll    | Optimism | Arbitrum  | Total         |
-| ---------------------------------------------------------------------- | ----------- | ----------- | --------- | -------- | --------- | ------------- |
-| Astrochain                                                             | ($220, 231) | ($55, 116)  | ($17, 8)  | ($1, 1)  | ($7, 6)   | ($300, 362)   |
-| Thrive on Mars                                                         | ($192, 444) | ($57, 109)  | ($7, 5)   | ($2, 2)  | ($6, 5)   | ($264, 565)   |
-| EcoSynthesisX                                                          | ($178, 197) | ($60, 110)  | ($8, 4)   | ($11, 2) | ($7, 7)   | ($194, 320)   |
-| MesoReefDAO - Regenerating Reef Conservation with DeSci Web3 tools     | ($196, 178) | ($38, 107)  | ($10, 5)  | ($13, 3) | ($3, 3)   | ($260, 296)   |
-| Follow the Black Hare                                                  | ($192, 183) | ($35, 101)  | ($15, 6)  | ($17, 4) | ($22, 8)  | ($281, 302)   |
-| OpenCann                                                               | ($197, 192) | ($76, 120)  | ($34, 8)  | ($1, 1)  | ($13, 11) | ($321, 332)   |
-| SpaceRadar                                                             | ($204, 204) | ($50, 120)  |           | ($2, 1)  | ($6, 6)   | ($262, 331)   |
-| Cx Bio \| Food Beyond Gravity                                          | ($108, 148) | ($21, 94)   |           | ($2, 2)  | ($9, 8)   | ($140, 252)   |
-| DeSci Youths                                                           | ($98, 126)  | ($54, 113)  | ($8, 4)   | ($1, 1)  | ($7, 7)   | ($168, 251)   |
-| VinQ: Decentralized co-creation community for regenerative viticulture | ($99, 103)  | ($3, 26)    |           | ($1, 1)  | ($10, 7)  | ($113, 137)   |
-| Orbuculum                                                              | ($115, 161) | ($42, 114)  | ($15, 9)  |          | ($4, 4)   | ($176, 288)   |
-| The DeSci Journals                                                     | ($86, 110)  | ($57, 113)  |           |          | ($6, 6)   | ($149, 229)   |
-| Spacefarer phenome                                                     | ($28, 30)   | ($31, 56)   |           |          |           | ($59, 86)     |
-| FunDeSci (NFT-Fundraising for DeSci)                                   | ($6, 8)     |             |           |          |           | ($6, 8)       |
-| HubTropolis                                                            | ($123, 141) |             |           |          |           | ($123, 141)   |
-| IberoAm: Blockchain Innovation Hub                                     | ($96, 148)  | ($26, 105)  |           | ($25, 5) | ($9, 8)   | ($156, 266)   |
-| Masterminding Eden - Visionary Village                                 | ($157, 176) | ($45, 110)  | ($21, 8)  | ($11, 4) | ($13, 4)  | ($247, 302)   |
-| DeSci Africa                                                           | ($167, 175) | ($27, 113)  | ($26, 10) | ($1, 1)  | ($6, 6)   | ($227, 305)   |
-| PoSciDonDAO                                                            |             | ($371, 105) |           |          |           | ($371, 105)   |
-| Salaries Science                                                       |             |             |           | ($11, 2) |           | ($11, 2)      |
-| sp/acc @ Zuzalu                                                        |             |             |           | ($1, 1)  | ($15, 5)  | ($16, 6)      |
-| Distributed Governance Score Framework: DAO Index                      |             |             |           |          |           |               |
-| DeSci Asia                                                             |             |             |           | ($1, 1)  |           | ($1, 1)       |
-| Food Resilience DAO                                                    |             |             |           | ($10, 4) |           | ($10, 4)      |
-| **Total**                                                                  |             |             |           |          |           | **($3855, 4586)** |
+| Project                                                                | zkSync      | Polygon     | Scroll    | Optimism | Arbitrum  | Total             |
+| ---------------------------------------------------------------------- | ----------- | ----------- | --------- | -------- | --------- | ----------------- |
+| Astrochain                                                             | ($220, 231) | ($55, 116)  | ($17, 8)  | ($1, 1)  | ($7, 6)   | ($300, 362)       |
+| Thrive on Mars                                                         | ($192, 444) | ($57, 109)  | ($7, 5)   | ($2, 2)  | ($6, 5)   | ($264, 565)       |
+| EcoSynthesisX                                                          | ($178, 197) | ($60, 110)  | ($8, 4)   | ($11, 2) | ($7, 7)   | ($194, 320)       |
+| MesoReefDAO - Regenerating Reef Conservation with DeSci Web3 tools     | ($196, 178) | ($38, 107)  | ($10, 5)  | ($13, 3) | ($3, 3)   | ($260, 296)       |
+| Follow the Black Hare                                                  | ($192, 183) | ($35, 101)  | ($15, 6)  | ($17, 4) | ($22, 8)  | ($281, 302)       |
+| OpenCann                                                               | ($197, 192) | ($76, 120)  | ($34, 8)  | ($1, 1)  | ($13, 11) | ($321, 332)       |
+| SpaceRadar                                                             | ($204, 204) | ($50, 120)  |           | ($2, 1)  | ($6, 6)   | ($262, 331)       |
+| Cx Bio \| Food Beyond Gravity                                          | ($108, 148) | ($21, 94)   |           | ($2, 2)  | ($9, 8)   | ($140, 252)       |
+| DeSci Youths                                                           | ($98, 126)  | ($54, 113)  | ($8, 4)   | ($1, 1)  | ($7, 7)   | ($168, 251)       |
+| VinQ: Decentralized co-creation community for regenerative viticulture | ($99, 103)  | ($3, 26)    |           | ($1, 1)  | ($10, 7)  | ($113, 137)       |
+| Orbuculum                                                              | ($115, 161) | ($42, 114)  | ($15, 9)  |          | ($4, 4)   | ($176, 288)       |
+| The DeSci Journals                                                     | ($86, 110)  | ($57, 113)  |           |          | ($6, 6)   | ($149, 229)       |
+| Spacefarer phenome                                                     | ($28, 30)   | ($31, 56)   |           |          |           | ($59, 86)         |
+| FunDeSci (NFT-Fundraising for DeSci)                                   | ($6, 8)     |             |           |          |           | ($6, 8)           |
+| HubTropolis                                                            | ($123, 141) |             |           |          |           | ($123, 141)       |
+| IberoAm: Blockchain Innovation Hub                                     | ($96, 148)  | ($26, 105)  |           | ($25, 5) | ($9, 8)   | ($156, 266)       |
+| Masterminding Eden - Visionary Village                                 | ($157, 176) | ($45, 110)  | ($21, 8)  | ($11, 4) | ($13, 4)  | ($247, 302)       |
+| DeSci Africa                                                           | ($167, 175) | ($27, 113)  | ($26, 10) | ($1, 1)  | ($6, 6)   | ($227, 305)       |
+| PoSciDonDAO                                                            |             | ($371, 105) |           |          |           | ($371, 105)       |
+| Salaries Science                                                       |             |             |           | ($11, 2) |           | ($11, 2)          |
+| sp/acc @ Zuzalu                                                        |             |             |           | ($1, 1)  | ($15, 5)  | ($16, 6)          |
+| Distributed Governance Score Framework: DAO Index                      |             |             |           |          |           |                   |
+| DeSci Asia                                                             |             |             |           | ($1, 1)  |           | ($1, 1)           |
+| Food Resilience DAO                                                    |             |             |           | ($10, 4) |           | ($10, 4)          |
+| **Total**                                                              |             |             |           |          |           | **($3855, 4586)** |
+|                                                                        |             |             |           |          |           |                   |
 
 ## Links
 ### Links to Live Rounds to Donate
