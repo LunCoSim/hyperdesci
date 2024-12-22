@@ -1,25 +1,71 @@
-# Experiment Three: Conviction voting & Grants eligibility
+# Experiment Three: Conviction Voting & Grants Eligibility
 
-**GET INVOLVED: [Telegram](https://t.me/hyperdesci_chat)**
+## Overview
+This experiment proposes a framework to accelerate early-stage DeSci projects, which are often the most promising but also the riskiest.
 
-Thx to Gardens HyperDeSci recieved some funds to run an experiment.
+### Core Principles
+1. **Convertible Grants**: Projects receiving grants pledge to replenish the treasury upon reaching maturity
+2. **Decentralized Eligibility**: Through conviction voting
+3. **Continuous Distribution**: Continuous grant distribution through Streaming QF
 
-The goal of the experiment is to test a continues grants distribution mechanism for DeSci projects. 
+**Join the Discussion: [Telegram](https://t.me/hyperdesci_chat)**
 
-It's highly inspired by the [Gardens Popup Commons Experiment](https://app.gardens.fund/gardens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548/0x0f143af46eef341b3f0dbf98c3ecb47f57067fef).
+## Token Economics: $MEGAPI
 
-Some of the mechanisms being propsed in previous articles:
-- [On continues grants distribution](./On%20Continues%20Grants%20distribution.md)
+### Initial Distribution
+- Total Supply: 31,415,926,536 $MEGAPI (π × 10^6)
+- Distribution Breakdown:
+  - 20% (6.28B $MEGAPI) → Liquidity Pool with ~0.15 ETH from current treasury
+  - 20% → StreamingQF distribution on course of 3 months
+  - 10% → Early builder subsidies
+  - 50% → Treasury reserve for future distribution
+
+### Community Participation
+
+To nominate a project for grants via Gardens, a citizen must:
+
+- Entry Requirement: 10,000 $MEGAPI stake + 1,000 $MEGAPI treasury contribution
+
+- Target: 50 initial members
+  - Expected Total Stake: 500,000 $MEGAPI
+  - Treasury Contribution: 50,000 $MEGAPI
+
+### Treasury Sustainability
+Projects receiving grants commit to treasury replenishment through:
+- Direct treasury donations
+- Adding liquidity pairs
+- Other community-approved methods
+
+## Implementation Process
+
+1. **Citizenship Acquisition**
+   - Stake 10,000 $MEGAPI
+   - Contribute 1,000 $MEGAPI to treasury
+
+2. **Project Creation**
+   - Citizens can propose new projects
+   - Projects must reach %ELIGIBILITY_THRESHOLD for grant consideration
+
+3. **Grant Distribution**
+   - Activation requires %MIN_PROJECTS (e.g., 5) reaching %ELIGIBILITY_THRESHOLD
+   - Distribution methods:
+     - Primary: StreamingQF
+     - Alternative: Gardens voting system with QF integration
+
+4. **Treasury Allocation**
+   - Dedicated portions for:
+     - Project grants
+     - Marketing initiatives
+     - Community development
+     - Operational expenses
+
+## Background
+
+This experiment builds upon:
+- Gardens HyperDeSci funding
+- [Gardens Popup Commons Experiment](https://app.gardens.fund/gardens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548/0x0f143af46eef341b3f0dbf98c3ecb47f57067fef)
+
+### Related Documentation
+- [On Continuous Grants Distribution](./On%20Continues%20Grants%20distribution.md)
 - [Sustaining HyperDeSci](./Sustaining%20HyperDeSci.md)
-- [Thought on Token Engineering for HyperDeSci](./Thought%20on%20Token%20Engineering%20for%20HyperDeSci.md)
-
-## Basic plan
-
-1. Get citizenship by staking XX $YY tokens with ZZ% going to treasure (Could be as Popup commons: 20 ARB stake + 2 ARB to community)
-2. Citizens would be able to create projects.
-3. Once reached TT treshold project would be eligible for grants distribution.
-4. Once PP projects (e.g. 5) reaches TT treshold, grants would be distributed.
-5. Grants would be distributed via streaming QF, so once get enough conviction - project would get to the streamingqf round
-6. Thou as Streaming QF is an experiment, maybe another way would be chosen - could be done via voting on gardens, with QF on gardens as an alternative to Streaming QF
-7. It would be nice to explicitly dedicate a portion of the treasury to support activities like marketing, community building, etc.
-
+- [Thoughts on Token Engineering for HyperDeSci](./Thought%20on%20Token%20Engineering%20for%20HyperDeSci.md)
