@@ -64,6 +64,7 @@ Projects receiving grants commit to treasury replenishment through:
 This experiment builds upon:
 - Gardens HyperDeSci funding
 - [Gardens Popup Commons Experiment](https://app.gardens.fund/gardens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548/0x0f143af46eef341b3f0dbf98c3ecb47f57067fef)
+- [1Hive Gardens v2 Community](https://app.gardens.fund/gardens/100/0x71850b7e9ee3f13ab46d67167341e4bdc905eef9/0xe2396fe2169ca026962971d3b2e373ba925b6257)
 
 ### Related Documentation
 - [On Continuous Grants Distribution](./On%20Continues%20Grants%20distribution.md)
