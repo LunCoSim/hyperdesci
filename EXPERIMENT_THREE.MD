@@ -4,7 +4,7 @@
 This experiment proposes a framework to accelerate early-stage DeSci projects, which are often the most promising but also the riskiest.
 
 ### Core Principles
-1. **Convertible Grants**: Projects receiving grants pledge to replenish the treasury upon reaching maturity
+1. **Convertible Grants**: Projects receiving grants pledge to volunteerly replenish the treasury upon reaching maturity
 2. **Decentralized Eligibility**: Through conviction voting
 3. **Continuous Distribution**: Continuous grant distribution through Streaming QF
 
@@ -13,25 +13,35 @@ This experiment proposes a framework to accelerate early-stage DeSci projects, w
 ## Token Economics: $MEGAPI
 
 ### Initial Distribution
-- Total Supply: 31,415,926,536 $MEGAPI (π × 10^6)
-- Distribution Breakdown:
-  - 20% (6.28B $MEGAPI) → Liquidity Pool with ~0.15 ETH from current treasury
-  - 20% → StreamingQF distribution on course of 3 months
-  - 10% → Early builder subsidies
-  - 50% → Treasury reserve for future distribution
+Total Supply: 3,141,593 $MEGAPI (π × 10^6)
+
+| Percentage | Amount | Usage |
+|------------|--------|-------|
+| 10% | 314,159 $MEGAPI | Liquidity Pool with ~0.15 ETH from current treasury |
+| 10% | 314,159 $MEGAPI | StreamingQF distribution over 3 months |
+| 3.5% | 110,000 $MEGAPI | Builder subsidies (subsidies half of the cost of the grant) |
+| 5% | 157,078 $MEGAPI | Airdrop to DeSci supporters (later) |
+| 12.5% | 392,798 $MEGAPI | Operations, marketing, and community development |
+| 60% | 1,853,399 $MEGAPI | Treasury reserve for future distribution |
+
+### Initial LP setup
+
+1. Uniswap V3 LP with 3,141,593 $MEGAPI with 0.15 $ETH
+2. Price Range: +- 5%
 
 ### Community Participation
 
 To nominate a project for grants via Gardens, a citizen must:
 
-- Entry Requirement: 10,000 $MEGAPI stake + 1,000 $MEGAPI treasury contribution
+- Entry Requirement: 10k $MEGAPI stake + 1,000 $MEGAPI treasury contribution
 
-- Target: 50 initial members
-  - Expected Total Stake: 500,000 $MEGAPI
-  - Treasury Contribution: 50,000 $MEGAPI
+- Target: 20 initial members
+  - Expected Total Stake: 200,000 $MEGAPI
+  - Treasury Contribution: 20,000 $MEGAPI
 
 ### Treasury Sustainability
-Projects receiving grants commit to treasury replenishment through:
+
+Projects receiving grants commit to voluntarily replenishing the treasury through:
 - Direct treasury donations
 - Adding liquidity pairs
 - Other community-approved methods
