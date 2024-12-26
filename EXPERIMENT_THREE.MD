@@ -27,7 +27,9 @@ Total Supply: 3,141,593 $MEGAPI (π × 10^6)
 ### Initial LP setup
 
 1. Uniswap V3 LP with 3,141,593 $MEGAPI with 0.15 $ETH
-2. Price Range: +- 5%
+2. Price Range: +- 2% - 30% of liquidity pool
+                +- 5% - 30% of liquidity pool
+                +- 10% - 40% of liquidity pool
 
 ### Community Participation
 
