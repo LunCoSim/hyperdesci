@@ -9,6 +9,15 @@ This is an evolving experiment, starting with the launch of $MEGAPI token and Ga
 
 ---
 
+## Executive Summary
+This framework describes a perpetual grants mechanism for decentralized science (DeSci). With CCGF:
+- Projects receive continuous, real-time funding rather than discrete grants.
+- Convertible returns from successful projects flow back to the treasury.
+- Slashing mechanisms deter misuse of funds and maintain fairness.
+- Governance is handled through Gardens-based conviction voting to ensure low-attention, decentralized decision-making.
+- $MEGAPI token aligns incentives between projects and the wider ecosystem.
+
+
 ## Table of Contents
 
 1. [The Vision](#the-vision)
@@ -54,6 +63,13 @@ The future of public goods funding isn't in discrete grants or centralized decis
 Public goods - from open-source software to scientific research - form the foundation of human progress. Yet we've failed to create sustainable funding mechanisms that match their importance. Traditional funding models are plagued by inefficiency, misaligned incentives, and unsustainable economics.
 
 We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
+
+### Key Differentiators of CCGF
+- **Continuous Funding**: Unlike grant rounds with fixed windows, CCGF streams support in real-time.
+- **Convertible Returns**: Successful projects repay or share success back to the treasury, fueling future projects.
+- **Low-Attention Governance**: Powered by conviction voting, limiting the need for constant oversight.
+- **Robust Slashing Mechanisms**: Projects that fail to meet obligations or break rules risk losing staked tokens.
+- **Aligned Incentives**: $MEGAPI staking ensures that the community and funded projects share both risk and reward.
 
 ## Key principles
 
@@ -116,11 +132,12 @@ At its core, CCGF uses a token-tied matching pool instead of direct grants:
 This creates a flywheel effect:
 - More projects → More value creation → Higher token value → Larger treasury → More projects
 
+
 ## Implementation: HyperDeSci Experiment Three: $MEGAPI
 
 To test the ideas in practice, we will launch a new experimental funding mechanism called $MEGAPI.
 
-- Total Supply: π*10^6 $MEGAPI
+- Total Supply: π * 10^6 $MEGAPI
 - Current HyperDeSci Treasury: 0.15 ETH
 - Token Utility:
   - Governance rights
@@ -144,7 +161,6 @@ To test the ideas in practice, we will launch a new experimental funding mechani
 2. Voting Process:
    - Conviction voting with time-weighted voting power
    - Minimum voting period: [X] days
-   - Implementation delay: [Y] days after passing
 
 3. Proposal Requirements:
    - Detailed impact assessment
@@ -272,6 +288,10 @@ All participants acknowledge these risks when joining the ecosystem. The project
 - Treasury diversification strategy
 - Grant recipient vesting schedules
 - Slashing conditions and process
+
+### Governance Risk
+- Reduced through transparent, on-chain voting and time-weighted conviction mechanisms
+
 
 ## References & Resources
 
