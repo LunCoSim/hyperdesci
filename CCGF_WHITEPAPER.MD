@@ -260,6 +260,12 @@ These improvements will be developed through community governance and experiment
 
 - **DYOR**: Do Your Own Research
 
+- **Slashing**: A mechanism to penalize projects for violating rules, typically by reducing their staked tokens
+
+- **Staking**: The act of locking up tokens to support a project or mechanism, typically to earn rewards or influence decision-making
+- **Conviction Voting**: A voting system where the weight of a vote decreases over time, encouraging long-term commitment
+- **HyperDeSci Treasury**: The treasury of the HyperDeSci ecosystem, holding $MEGAPI tokens and other ecosystem tokens
+
 ### Appendix 2: Risk Factors
 
 Participants should be aware that:
