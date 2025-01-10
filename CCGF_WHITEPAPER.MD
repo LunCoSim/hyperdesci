@@ -31,9 +31,17 @@ With the proposed process we are planning to tackle thouse newances :
 - if project would be found violating the rules e.g. quid pro quo in StreamingQF stake of the guy who proposed slashes and goes to community pool
 4. All the experiments and voting systems should be tuned for on-going operations, like relying on conviction voting for eligibility
 
-
 ## Links
 
+### Consepts
 1. [What is Quadratic Funding](https://www.wtfisqf.com/)
-2. StreamingQF
-3. Commons
+2. [StreamingQF](https://github.com/Geo-Web-Project/streaming-quadratic-funding)
+3. [Web3 HyperStructures](https://jacob.energy/hyperstructures.html)
+4. [Greenpilled: How crypto can regenerate the world](https://greenpill.network/pdf/green-pill.pdf)
+5. [Onchain Capital Allocation](https://greenpill.network/pdf/onchain-capital-allocation-v2.pdf)
+
+### Projects
+1. [Gitcoin](https://gitcoin.co/)
+2. [Giveth](https://giveth.io/)
+3. [Octant](https://octant.xyz/)
+4. [CommonsProtocol](https://www.commonsprotocol.xyz/)
