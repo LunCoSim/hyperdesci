@@ -1,4 +1,4 @@
-# Continuous Convertible Grants Framework
+# Continuous Convertible Grants Framework (draft)
 ## A Self-Sustaining Engine for Public Goods Funding
 
 This document describes an experimental framework for sustainable public goods funding, specifically designed to support decentralized science (DeSci). The Continuous Convertible Grants Framework (CCGF) aims to become a HyperStructure - an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
