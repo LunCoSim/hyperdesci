@@ -110,8 +110,8 @@ At its core, CCGF uses a token-tied matching pool instead of direct grants:
 1. Treasury holds ecosystem tokens
 2. Projects receive continuous token streams via different experimental funding mechanisms
 3. Success drives token value
-4. Projects pledges to voluntarily contribute value back to treasury through convertible mechanisms
-5. Project can by punished for violating rules by slashing staking of proposers, or use other similar mechanisms
+4. Projects pledge to voluntarily contribute value back to treasury through convertible mechanisms
+5. Projects can be punished for violating rules by slashing staking of proposers, or use other similar mechanisms
 
 This creates a flywheel effect:
 - More projects → More value creation → Higher token value → Larger treasury → More projects
@@ -155,7 +155,7 @@ To test the ideas in practice, we will launch a new experimental funding mechani
 
 1. Member of Gardens should nominate the project by staking $MEGAPI tokens
 2. If project violates the rules, the staking could be slashed
-3. Once project recieves enogh voting power the project will be accepted to funding experiment.
+3. Once a project receives enough voting power the project will be accepted to funding experiment.
 
 ### Project Evaluation Criteria
 1. Impact Metrics:
@@ -172,20 +172,20 @@ To test the ideas in practice, we will launch a new experimental funding mechani
 
 ### Funding experiments selection
 
-There are different continues funding mechanisms, and community would experiment with different mechanisn. 
+There are different continuous funding mechanisms, and the community will experiment with different mechanisms.
 
-The general process is something:
-1. Community member should propose the experiment:
+The general process is as follows:
+1. A community member should propose the experiment:
 2. How many $MEGAPI tokens should be allocated to the experiment
 3. How long the experiment should last
 4. What is the mechanism of the experiment
 
-Once community accepts, e.g. 33% percent of the staked $MEGAPI tokens, the experiment will be launched.
-After that projects would be able to apply for funding.  
+Once the community accepts (e.g., 33% of the staked $MEGAPI tokens), the experiment will be launched.
+After that, projects will be able to apply for funding.  
 
 ### First experiments
 
-We propose these experiments, new once are much welcome.
+We propose these experiments, new ones are welcome.
 1. Streaming QF
 2. Builder support like on commons protocol
 3. Community staking
