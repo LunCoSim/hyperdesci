@@ -103,24 +103,6 @@ We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
    - Measure success through advancement of public goods
    - Focus on long-term value creation over short-term token appreciation
 
-## Core Innovation
-
-CCGF replaces traditional grant-making with a perpetual funding engine built on three key principles:
-
-1. **Continuous Over Discrete**
-   - Projects receive uninterrupted funding streams
-   - Support adjusts in real-time based on community conviction
-   - No more artificial funding cycles or grant rounds
-
-2. **Aligned Incentives**
-   - Projects stake tokens to participate
-   - Successful projects contribute back to the treasury
-   - Value captured flows to ecosystem participants
-
-3. **Low-Attention Governance**
-   - Conviction voting replaces constant decision-making
-   - Community sets direction through passive signaling
-
 ## The Mechanism
 
 At its core, CCGF uses a token-tied matching pool instead of direct grants:
@@ -128,7 +110,7 @@ At its core, CCGF uses a token-tied matching pool instead of direct grants:
 1. Treasury holds ecosystem tokens
 2. Projects receive continuous token streams via different experimental funding mechanisms
 3. Success drives token value
-4. Value flows back to treasury through convertible mechanisms
+4. Projects pledges to voluntarily contribute value back to treasury through convertible mechanisms
 5. Project can by punished for violating rules by slashing staking of proposers, or use other similar mechanisms
 
 This creates a flywheel effect:
