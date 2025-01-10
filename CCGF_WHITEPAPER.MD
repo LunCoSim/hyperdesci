@@ -172,16 +172,20 @@ To test the ideas in practice, we will launch a new experimental funding mechani
 
 ### Funding experiments selection
 
-There are different continuous funding mechanisms, and the community will experiment with different mechanisms.
+CCGF supports various continuous funding mechanisms. To find the most effective approaches, the community will test different funding models through controlled experiments.
 
-The general process is as follows:
-1. A community member should propose the experiment:
-2. How many $MEGAPI tokens should be allocated to the experiment
-3. How long the experiment should last
-4. What is the mechanism of the experiment
+Each funding experiment follows this process:
+A community member proposes a new funding model, specifying:
+   - Allocation of $MEGAPI tokens for the test
+   - Duration of the test period
+   - Detailed description of the funding mechanism to be tested
 
-Once the community accepts (e.g., 33% of the staked $MEGAPI tokens), the experiment will be launched.
-After that, projects will be able to apply for funding.  
+Once the proposal receives sufficient support (e.g., 33% of the staked $MEGAPI tokens), the funding experiment begins. After launch, projects can apply to receive funding through this specific mechanism.
+
+For example, a funding experiment might test:
+1. Streaming QF: Real-time quadratic funding distribution
+2. Builder support: Direct funding similar to Commons Protocol
+3. Community staking: Stake-weighted funding allocation
 
 ### First experiments
 
