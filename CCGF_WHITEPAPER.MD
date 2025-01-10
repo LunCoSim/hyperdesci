@@ -49,6 +49,16 @@ Public goods - from open-source software to scientific research - form the found
 
 We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
 
+## Key principles
+
+1. Give first
+2. Pay your debts
+3. Don't be greedy
+4. We grow together
+5. Supermodular games are played for centuries
+6. AI is the key to HyperStructures
+7. HyperStructures is the key to UBI
+
 ## Core Innovation
 
 CCGF replaces traditional grant-making with a perpetual funding engine built on three key principles:
