@@ -266,6 +266,12 @@ Before diving deeper, let's clarify some key terms:
 
 - **Moloch**: A metaphor for coordination failures in society where individual incentives lead to collectively harmful outcomes
 
+- **Multipolar Coordination Trap**: A situation where multiple actors, each acting in their own rational self-interest, create collectively suboptimal outcomes because they cannot effectively coordinate. Examples include:
+  - Arms races where nations spend on weapons rather than social goods
+  - Environmental degradation where companies pollute to stay competitive
+  - Research secrecy where sharing would benefit all but each party holds back
+  This is a key challenge that CCGF aims to address through aligned incentives and collaborative mechanisms.
+
 - **DYOR**: Do Your Own Research
 
 ### Appendix 2: Risk Factors
