@@ -81,6 +81,46 @@ We propose these experiments, new once are much welcome.
 2. Builder support like on commons protocol
 3. Community staking
 
+## HyperStructure Properties
+
+CCGF aims to become a true HyperStructure for public goods funding. Let's analyze its current properties and areas for improvement:
+
+### Current HyperStructure Properties
+
+1. **Unstoppable**
+   - Conviction voting ensures permissionless operation
+   - Gardens framework provides decentralized governance
+   - No central admin keys or pause functions
+
+2. **Free (or very low cost)**
+   - Only gas costs for interactions
+   - No platform fees or administrative overhead
+   - Minimal economic barriers to participation
+
+3. **Valuable**
+   - Treasury growth tied to ecosystem success
+   - Value capture through token mechanics
+   - Network effects from project collaboration
+
+4. **Expansive**
+   - Multiple funding experiments possible
+   - Community-driven parameter adjustment
+   - Cross-project pollination built-in
+
+### Areas for Further Development
+
+1. **Credible Neutrality**
+   - Current: Basic slashing mechanisms
+   - Future: More robust anti-gaming systems
+   - Goal: Fully autonomous eligibility verification
+
+2. **Perpetual Operation**
+   - Current: Relies on community maintenance
+   - Future: More automated treasury management, maybe even with AI
+   - Goal: Self-sustaining economic model
+
+These improvements will be developed through community governance and experimental funding mechanisms, moving CCGF closer to its ideal form as a true HyperStructure.
+
 
 ### References & Resources
 
@@ -101,3 +141,4 @@ We propose these experiments, new once are much welcome.
 
 - Twitter: [@HyperDeSci](https://x.com/hyperdesci)
 - Telegram: [Join HyperDeSci](https://t.me/hyperdesci)
+
