@@ -34,10 +34,16 @@ This is an evolving experiment, starting with the launch of $MEGAPI token and Ga
    - Current Properties
    - Areas for Further Development
 
-6. [References & Resources](#references--resources)
+6. [Appendices](#appendices)
+   - [Appendix 1: Glossary & Key Concepts](#appendix-1-glossary--key-concepts)
+   - [Appendix 2: Risk Factors](#appendix-2-risk-factors)
+
+7. [References & Resources](#references--resources)
    - Concepts
-   - Projects
+   - Inspiational Projects
    - Contact & Community
+
+8. [Implementation Roadmap](#implementation-roadmap)
 
 ---
 
@@ -74,6 +80,11 @@ We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
    - Overcome coordination failures (Moloch)
    - Solve multipolar traps through intentional cooperation
 
+6. Impact Over Token Price
+   - Prioritize scientific and social impact
+   - Measure success through advancement of public goods
+   - Focus on long-term value creation over short-term token appreciation
+
 ## Core Innovation
 
 CCGF replaces traditional grant-making with a perpetual funding engine built on three key principles:
@@ -109,8 +120,11 @@ This creates a flywheel effect:
 
 To test the ideas in practice, we will launch a new experimental funding mechanism called $MEGAPI.
 
-- Initial Treasury: pi*10^6 $MEGAPI (18 digits)
+- Total Supply: π*10^6 $MEGAPI
 - Current HyperDeSci Treasury: 0.15 ETH
+- Token Utility:
+  - Governance rights
+  - Grant participation
 
 ### How to participate in Gardens
 
@@ -120,11 +134,41 @@ To test the ideas in practice, we will launch a new experimental funding mechani
    - min 1k $MEGAPI tokens
    - 10% staked $MEGAPI goes to treasury
 
+### Governance Framework
+1. Proposal Types:
+   - Funding experiments
+   - Parameter adjustments
+   - Treasury management
+   - Framework improvements
+
+2. Voting Process:
+   - Conviction voting with time-weighted voting power
+   - Minimum voting period: [X] days
+   - Implementation delay: [Y] days after passing
+
+3. Proposal Requirements:
+   - Detailed impact assessment
+   - Clear success metrics
+   - Risk analysis
+
 ### General eligibility selection process
 
 1. Member of Gardens should nominate the project by staking $MEGAPI tokens
 2. If project violates the rules, the staking could be slashed
 3. Once project recieves enogh voting power the project will be accepted to funding experiment.
+
+### Project Evaluation Criteria
+1. Impact Metrics:
+   - Scientific/technical merit
+   - Community benefit
+   - Open-source commitment
+   - Collaboration potential
+
+2. Reporting Requirements:
+   - Regular progress updates
+   - Open documentation
+   - Community engagement metrics
+   - Resource utilization reports
 
 ### Funding experiments selection
 
@@ -186,10 +230,52 @@ CCGF aims to become a true HyperStructure for public goods funding. Let's analyz
 
 These improvements will be developed through community governance and experimental funding mechanisms, moving CCGF closer to its ideal form as a true HyperStructure.
 
+## Appendix 1: Glossary & Key Concepts
 
-### References & Resources
+Before diving deeper, let's clarify some key terms:
 
-#### Consepts
+- **Public Goods**: Resources or services that benefit everyone and cannot be restricted (like clean air, scientific knowledge, or open-source software). They are "non-rivalrous" (one person's use doesn't reduce availability for others) and "non-excludable" (can't prevent people from using it)
+
+- **HyperStructure**: A crypto-economic protocol that can run for free and forever, without maintenance, interruption, or intermediaries. Key properties include being unstoppable, free, valuable, and expansive
+
+- **DeSci (Decentralized Science)**: Scientific research and funding conducted through decentralized web3 technologies
+
+- **Quadratic Funding**: A matching mechanism where the matching amount increases with the number of contributors
+
+- **StreamingQF**: A continuous version of quadratic funding where support flows in real-time
+
+- **Gardens**: A decentralized governance framework that enables communities to coordinate around shared resources
+
+- **CCGF**: This framework - Continuous Convertible Grants Framework
+
+- **Moloch**: A metaphor for coordination failures in society where individual incentives lead to collectively harmful outcomes
+
+- **DYOR**: Do Your Own Research
+
+### Appendix 2: Risk Factors
+
+Participants should be aware that:
+1. Cryptocurrency investments carry inherent risks
+2. The CCGF mechanism is experimental
+3. Token values can fluctuate significantly
+4. Smart contracts may contain undiscovered vulnerabilities
+5. Regulatory environment remains uncertain
+
+All participants acknowledge these risks when joining the ecosystem. The project team is not liable for any losses. Do your own research.
+
+### Technical Risk Mitigation
+- Smart contract audit plan
+- Bug bounty program
+- Emergency response procedures
+
+### Economic Risk Mitigation
+- Treasury diversification strategy
+- Grant recipient vesting schedules
+- Slashing conditions and process
+
+## References & Resources
+
+#### Concepts
 1. [What is Quadratic Funding](https://www.wtfisqf.com/)
 2. [StreamingQF](https://github.com/Geo-Web-Project/streaming-quadratic-funding)
 3. [Web3 HyperStructures](https://jacob.energy/hyperstructures.html)
@@ -206,4 +292,3 @@ These improvements will be developed through community governance and experiment
 
 - Twitter: [@HyperDeSci](https://x.com/hyperdesci)
 - Telegram: [Join HyperDeSci](https://t.me/hyperdesci)
-
