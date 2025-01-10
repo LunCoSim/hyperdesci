@@ -1,6 +1,46 @@
 # Continuous Convertible Grants Framework
 ## A Self-Sustaining Engine for Public Goods Funding
 
+This document describes an experimental framework for sustainable public goods funding, specifically designed to support decentralized science (DeSci). The Continuous Convertible Grants Framework (CCGF) aims to become a HyperStructure - an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
+
+Inspired by successful mechanisms like Quadratic Funding, StreamingQF, and Gardens, CCGF introduces continuous funding streams, convertible grants, and cultural alignment to create a self-sustaining ecosystem for DeSci projects.
+
+This is an evolving experiment, starting with the launch of $MEGAPI token and Gardens-based governance.
+
+---
+
+## Table of Contents
+
+1. [The Vision](#the-vision)
+   - Problem Statement
+   - New Paradigm
+
+2. [Core Innovation](#core-innovation)
+   - Continuous Over Discrete
+   - Aligned Incentives
+   - Low-Attention Governance
+
+3. [The Mechanism](#the-mechanism)
+   - Token-Tied Matching Pool
+   - Flywheel Effect
+
+4. [Implementation: HyperDeSci Experiment Three: $MEGAPI](#implementation-hyperdesci-experiment-three-megapi)
+   - How to Participate in Gardens
+   - General Eligibility Selection Process
+   - Funding Experiments Selection
+   - First Experiments
+
+5. [HyperStructure Properties](#hyperstructure-properties)
+   - Current Properties
+   - Areas for Further Development
+
+6. [References & Resources](#references--resources)
+   - Concepts
+   - Projects
+   - Contact & Community
+
+---
+
 The future of public goods funding isn't in discrete grants or centralized decision-making - it's in continuous, community-driven support systems that align incentives for long-term sustainability.
 
 ## The Vision
