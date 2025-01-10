@@ -51,13 +51,28 @@ We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
 
 ## Key principles
 
-1. Give first
-2. Pay your debts
-3. Don't be greedy
-4. We grow together
-5. Supermodular games are played for centuries
-6. AI is the key to HyperStructures
-7. HyperStructures is the key to UBI
+1. Collaborative Growth First
+   - Give before taking
+   - Honor commitments
+   - Practice sustainable sharing
+   - Grow as a community
+
+2. Build for Perpetual Value
+   - Design systems that compound benefits over time
+   - Create supermodular games where collaboration multiplies value
+
+3. Automate for Public Good
+   - Leverage AI for automation
+   - Build self-sustaining HyperStructures
+   - Enable Universal Basic Income
+
+4. Prioritize Public Goods
+   - Focus on collective benefits
+   - Create shared resources and infrastructure
+
+5. Enable Coordinated Progress
+   - Overcome coordination failures (Moloch)
+   - Solve multipolar traps through intentional cooperation
 
 ## Core Innovation
 
