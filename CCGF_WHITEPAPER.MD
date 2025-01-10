@@ -250,8 +250,6 @@ These improvements will be developed through community governance and experiment
 
 ## Appendix 1: Glossary & Key Concepts
 
-Before diving deeper, let's clarify some key terms:
-
 - **Public Goods**: Resources or services that benefit everyone and cannot be restricted (like clean air, scientific knowledge, or open-source software). They are "non-rivalrous" (one person's use doesn't reduce availability for others) and "non-excludable" (can't prevent people from using it)
 
 - **HyperStructure**: A crypto-economic protocol that can run for free and forever, without maintenance, interruption, or intermediaries. Key properties include being unstoppable, free, valuable, and expansive
