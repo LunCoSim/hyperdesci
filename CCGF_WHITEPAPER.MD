@@ -303,8 +303,10 @@ All participants acknowledge these risks when joining the ecosystem. The project
 #### Projects
 1. [Gitcoin](https://gitcoin.co/)
 2. [Giveth](https://giveth.io/)
-3. [Octant](https://octant.xyz/)
-4. [CommonsProtocol](https://www.commonsprotocol.xyz/)
+3. [MoonDAO dePrize](https://www.moondao.com/)
+4. [1Hive on Gardens](https://1hive.org/)
+4. [Octant](https://octant.xyz/)
+5. [CommonsProtocol](https://www.commonsprotocol.xyz/)
 
 #### Contact & Community
 
