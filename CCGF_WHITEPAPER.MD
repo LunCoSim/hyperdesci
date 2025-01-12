@@ -116,6 +116,8 @@ At its core, CCGF uses a token-tied matching pool instead of direct grants:
 This creates a flywheel effect:
 - More projects → More value creation → Higher token value → Larger treasury → More projects
 
+[A place for a diagram.]
+
 
 ## Implementation: HyperDeSci Experiment Three: $MEGAPI
 
