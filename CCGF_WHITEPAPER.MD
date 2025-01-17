@@ -140,9 +140,9 @@ To test the vision in practice, we will launch a new experimental funding mechan
 
 1. For governance, join *Gardens* (link TBD)
 2. Sign the ecosystem covenant
-3. Stake **$MEGAPI** tokens
-   - Minimum 1k **$MEGAPI**
-   - 10% of staked **$MEGAPI** to treasury
+3. Stake **$MEGAPI** tokens in support of a proposal
+   - Minimum 1k **$MEGAPI** per proposal
+   - 10% of staked **$MEGAPI** goes to treasury
 
 ### Governance Framework
 
@@ -161,11 +161,12 @@ To test the vision in practice, we will launch a new experimental funding mechan
    - Clear success metrics
    - Risk analysis
 
-### General eligibility selection process
+### Project Nomination
 
-1. Member of *Gardens* should nominate a project by staking **$MEGAPI** tokens
-2. If project violates the rules, the staking could be slashed
-3. Once a project receives enough voting power the project will be accepted to the funding experiment.
+1. Member of *Gardens* nominates a project by initiating a proposal and staking **$MEGAPI**
+2. Once a project receives enough voting power from other members, the project is accepted to the experiment and is funded in accordance with the experiment parameters.
+
+If the funded project violates the rules, the staking could be slashed.
 
 ### Project Evaluation Criteria
 
@@ -266,9 +267,9 @@ These improvements will be developed through community governance and experiment
 
 - **Multipolar Coordination Trap**: A situation where multiple actors, each acting in their own rational self-interest, create collectively suboptimal outcomes because they cannot effectively coordinate. Examples include:
 
-  - Arms races where nations spend on weapons rather than social goods
-  - Environmental degradation where companies pollute to stay competitive
-  - Research secrecy where sharing would benefit all but each party holds back
+  - **Arms races** where nations spend on weapons rather than social goods
+  - **Environmental degradation** where companies pollute to stay competitive
+  - **Research secrecy** where sharing would benefit all but each party holds back
   
   This is a key challenge that CCGF aims to address through aligned incentives and collaborative mechanisms.
 
@@ -325,7 +326,7 @@ All participants acknowledge these risks when joining the ecosystem. The project
 3. [MoonDAO dePrize](https://www.moondao.com/)
 4. [1Hive on Gardens](https://1hive.org/)
 4. [Octant](https://octant.xyz/)
-5. [CommonsProtocol](https://www.commonsprotocol.xyz/)
+5. [Commons Protocol](https://www.commonsprotocol.xyz/)
 
 #### Contact & Community
 
