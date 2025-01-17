@@ -18,11 +18,12 @@ This is an evolving experiment, starting with the launch of **$MEGAPI** token an
 This framework describes a perpetual grants mechanism for *decentralized science* (DeSci). 
 
 **With CCGF:**
+
 - Projects receive continuous, real-time funding rather than discrete grants.
 - Convertible returns from successful projects flow back to the treasury.
 - Slashing mechanisms deter misuse of funds and maintain fairness.
-- Governance is handled through Gardens-based conviction voting to ensure low-attention, decentralized decision-making.
-- $MEGAPI token aligns incentives between projects and the wider ecosystem.
+- Governance is handled through *Gardens*-based conviction voting to ensure low-attention, decentralized decision-making.
+- **$MEGAPI** token aligns incentives between projects and the wider ecosystem.
 
 ## Table of Contents
 
@@ -62,24 +63,22 @@ This framework describes a perpetual grants mechanism for *decentralized science
 
 ---
 
-
-The future of public goods funding isn't in discrete grants or centralized decision-making -- it's in continuous, community-driven support systems that align incentives for long-term sustainability.
-
 ## The Vision
 
-**Public goods** -- from open-source software to scientific research -- form the foundation of human progress. Yet we've failed to create sustainable funding mechanisms that match their importance. Traditional funding models are plagued by inefficiency, misaligned incentives, and unsustainable economics.
+**Public goods** -- from open-source software to scientific research output -- form the foundation of human progress. Yet there's a lack of sustainable funding mechanisms that support public goods at a level matching their importance. Traditional funding models are plagued by inefficiency, misaligned incentives, and unsustainable economics. We believe that the future of public goods funding isn't in discrete grants or centralized decision-making -- it's in continuous, community-driven support systems that align incentives for long-term sustainability.
 
-We propose a new paradigm: the **Continuous Convertible Grants Framework** (CCGF).
+To bridge the gap to sustainable funding of public goods, we propose a new paradigm: the **Continuous Convertible Grants Framework** (CCGF).
 
-### Key Differentiators of CCGF
+## Core Innovation
+### Key Differentiators
 
 - **Continuous Funding**: Unlike grant rounds with fixed windows, CCGF streams support in real-time.
 - **Convertible Returns**: Successful projects repay or share success back to the treasury, fueling future projects.
 - **Low-Attention Governance**: Powered by conviction voting, limiting the need for constant oversight.
 - **Robust Slashing Mechanisms**: Projects that fail to meet obligations or break rules risk losing staked tokens.
-- **Aligned Incentives**: $MEGAPI staking ensures that the community and funded projects share both risk and reward.
+- **Aligned Incentives**: Ecosystem token staking ensures that the community and funded projects share both risk and reward.
 
-## Key principles
+### Key principles
 
 1. **Collaborative Growth First**
    - Give before taking
