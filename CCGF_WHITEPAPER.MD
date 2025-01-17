@@ -3,7 +3,7 @@
 
 This document describes an experimental framework for sustainable public goods funding, specifically designed to support *decentralized science* [^1] (DeSci) projects. 
 
-The **Continuous Convertible Grants Framework** (CCGF) aims to become a **HyperStructure** [^2] -- an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
+The **Continuous Convertible Grants Framework** (CCGF) aims to become a *HyperStructure* [^2] -- an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
 
 Inspired by successful mechanisms like *Quadratic Funding* [^3], *StreamingQF* [^4], and *Gardens* [^5], CCGF represents an evolution of these approaches designed to create greater impact across the DeSci ecosystem.
 
@@ -92,15 +92,15 @@ To bridge the gap to sustainable funding of public goods, we propose a new parad
 
 3. **Automate for Public Good**
    - Leverage AI for automation
-   - Build self-sustaining HyperStructures
-   - Enable Universal Basic Income (UBI)
+   - Build self-sustaining *HyperStructures*
+   - Enable *Universal Basic Income* (UBI)
 
 4. **Prioritize Public Goods**
    - Focus on collective benefits
    - Create shared resources and infrastructure
 
 5. **Enable Coordinated Progress**
-   - Overcome coordination failures (Moloch)
+   - Overcome coordination failures (*Moloch*)
    - Solve multipolar traps through intentional cooperation
 
 6. **Impact Over Token Price**
@@ -118,28 +118,31 @@ At its core, CCGF uses a token-tied matching pool instead of direct grants:
 4. Projects pledge to voluntarily contribute value back to treasury through convertible mechanisms
 5. Projects can be punished for violating rules by slashing staking of proposers, or use other similar mechanisms
 
-This creates a flywheel effect:
-- More projects → More value creation → Higher token value → Larger treasury → More projects
+**This creates a flywheel effect:**
+
+More projects → More value creation → Higher token value → Larger treasury → More projects
 
 [A place for a diagram.]
 
 ## Implementation: HyperDeSci Experiment Three: $MEGAPI
 
-To test the vision in practice, we will launch a new experimental funding mechanism powered by $MEGAPI.
+To test the vision in practice, we will launch a new experimental funding mechanism powered by **$MEGAPI**.
 
-- Total Supply: π * 10^6 $MEGAPI
-- Current **HyperDeSci** Treasury: 0.15 ETH
-- Token Utility:
+### Tokenomics
+
+- **Total Supply:** π * 10^6 **$MEGAPI**
+- **Current HyperDeSci Treasury:** 0.15 ETH
+- **Token Utility:**
   - Governance rights
   - Grant participation
 
-### How to participate in Gardens
+### Governance Participation
 
-1. For governance join Gardens (link TBD)
+1. For governance, join *Gardens* (link TBD)
 2. Sign the ecosystem covenant
-3. Stake $MEGAPI tokens
-   - Minimum 1k $MEGAPI tokens
-   - 10% staked $MEGAPI goes to treasury
+3. Stake **$MEGAPI** tokens
+   - Minimum 1k **$MEGAPI**
+   - 10% of staked **$MEGAPI** to treasury
 
 ### Governance Framework
 
@@ -151,7 +154,7 @@ To test the vision in practice, we will launch a new experimental funding mechan
 
 2. **Voting Process:**
    - Conviction voting with time-weighted voting power
-   - Minimum voting period: [X] days
+   - **Minimum voting period:** [X] days
 
 3. **Proposal Requirements:**
    - Detailed impact assessment
@@ -160,9 +163,9 @@ To test the vision in practice, we will launch a new experimental funding mechan
 
 ### General eligibility selection process
 
-1. Member of Gardens should nominate the project by staking $MEGAPI tokens
+1. Member of *Gardens* should nominate a project by staking **$MEGAPI** tokens
 2. If project violates the rules, the staking could be slashed
-3. Once a project receives enough voting power the project will be accepted to funding experiment.
+3. Once a project receives enough voting power the project will be accepted to the funding experiment.
 
 ### Project Evaluation Criteria
 
@@ -182,34 +185,30 @@ To test the vision in practice, we will launch a new experimental funding mechan
 
 CCGF aims to support various continuous funding mechanisms. To find the most effective approaches, the community will test different funding models through controlled experiments.
 
-Each funding experiment follows this process:
+**Each funding experiment follows this process:**
 
 1. A community member proposes a new funding model, specifying:
-   - Allocation of $MEGAPI tokens for the test
+   - Allocation of **$MEGAPI** tokens for the test
    - Duration of the test period
    - Detailed description of the funding mechanism to be tested
 
-2. Once the proposal receives sufficient support from ecosystem stakeholders (e.g., 33% of the staked $MEGAPI tokens), the funding experiment begins. 
+2. Once the proposal receives sufficient support from ecosystem stakeholders (e.g., 33% of the staked **$MEGAPI** tokens), the funding experiment begins. 
 
 3. After launch, projects can apply to receive funding through this specific mechanism.
+
+### First experiments
 
 For example, a funding experiment might test:
 
 1. **Streaming QF:** Real-time quadratic funding distribution
-2. **Builder support:** Direct funding similar to Commons Protocol
+2. **Builder support:** Direct funding similar to [Commons Protocol](https://www.commonsprotocol.xyz/)
 3. **Community staking:** Stake-weighted funding allocation
 
-### First experiments
-
-We propose these experiments, new ones are welcome.
-
-1. Streaming QF
-2. Builder support like on Commons Protocol
-3. Community staking
+Suggestions are welcome.
 
 ## HyperStructure Properties
 
-CCGF aims to become a true HyperStructure for public goods funding. Let's analyze its current properties and areas for improvement:
+CCGF aims to become a true *HyperStructure* for public goods funding. Let's analyze its current properties and areas for improvement:
 
 ### Current HyperStructure Properties
 
@@ -236,16 +235,16 @@ CCGF aims to become a true HyperStructure for public goods funding. Let's analyz
 ### Areas for Further Development
 
 1. **Credible Neutrality**
-   - Current: Basic slashing mechanisms
-   - Future: More robust anti-gaming systems
-   - Goal: Fully autonomous eligibility verification
+   - *Current:* Basic slashing mechanisms
+   - *Future:* More robust anti-gaming systems
+   - **Goal:** Fully autonomous eligibility verification
 
 2. **Perpetual Operation**
-   - Current: Relies on community maintenance
-   - Future: More automated treasury management, maybe even with AI
-   - Goal: Self-sustaining economic model
+   - *Current:* Relies on community maintenance
+   - *Future:* More automated treasury management, maybe even with AI
+   - **Goal:** Self-sustaining economic model
 
-These improvements will be developed through community governance and experimental funding mechanisms, moving CCGF closer to its ideal form as a true HyperStructure.
+These improvements will be developed through community governance and experimental funding mechanisms, moving CCGF closer to its ideal form as a true *HyperStructure*.
 
 ## Appendix 1: Glossary & Key Concepts
 
@@ -253,7 +252,7 @@ These improvements will be developed through community governance and experiment
 
 - **HyperStructure**: A crypto-economic protocol that can run for free and forever, without maintenance, interruption, or intermediaries. Key properties include being unstoppable, free, valuable, and expansive.
 
-- **DeSci (Decentralized Science)**: Scientific research and funding conducted through decentralized web3 technologies.
+- **DeSci (Decentralized Science)**: Scientific research and funding conducted through decentralized *Web3* technologies.
 
 - **Quadratic Funding**: A matching mechanism where the matching amount increases with the number of contributors.
 
@@ -261,14 +260,16 @@ These improvements will be developed through community governance and experiment
 
 - **Gardens**: A decentralized governance framework that enables communities to coordinate around shared resources.
 
-- **CCGF**: This framework - Continuous Convertible Grants Framework.
+- **CCGF**: This framework -- Continuous Convertible Grants Framework.
 
 - **Moloch**: A metaphor for coordination failures in society where individual incentives lead to collectively harmful outcomes.
 
 - **Multipolar Coordination Trap**: A situation where multiple actors, each acting in their own rational self-interest, create collectively suboptimal outcomes because they cannot effectively coordinate. Examples include:
+
   - Arms races where nations spend on weapons rather than social goods
   - Environmental degradation where companies pollute to stay competitive
   - Research secrecy where sharing would benefit all but each party holds back
+  
   This is a key challenge that CCGF aims to address through aligned incentives and collaborative mechanisms.
 
 - **DYOR**: Do Your Own Research.
@@ -279,30 +280,34 @@ These improvements will be developed through community governance and experiment
 
 - **Conviction Voting**: A voting system where the weight of a vote decreases over time, encouraging long-term commitment.
 
-- **HyperDeSci Treasury**: The treasury of the HyperDeSci ecosystem, holding $MEGAPI tokens and other ecosystem tokens.
+- **HyperDeSci Treasury**: The treasury of the **HyperDeSci** ecosystem, holding **$MEGAPI** tokens and other ecosystem tokens.
 
 ### Appendix 2: Risk Factors
 
-Participants should be aware that:
+**Participants should be aware that:**
+
 1. Cryptocurrency investments carry inherent risks
 2. The CCGF mechanism is experimental
 3. Token values can fluctuate significantly
 4. Smart contracts may contain undiscovered vulnerabilities
 5. Regulatory environment remains uncertain
 
-All participants acknowledge these risks when joining the ecosystem. The project team is not liable for any losses. Do your own research.
+All participants acknowledge these risks when joining the ecosystem. The project team is not liable for any losses. **Do your own research.**
 
 ### Technical Risk Mitigation
+
 - Smart contract audit plan
 - Bug bounty program
 - Emergency response procedures
 
 ### Economic Risk Mitigation
+
 - Treasury diversification strategy
 - Grant recipient vesting schedules
 - Slashing conditions and process
 
 ### Governance Risk
+
 - Reduced through transparent, on-chain voting and time-weighted conviction mechanisms
 
 ## References & Resources
