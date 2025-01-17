@@ -1,7 +1,9 @@
 # Continuous Convertible Grants Framework (draft)
 ## A Self-Sustaining Engine for Public Goods Funding
 
-This document describes an experimental framework for sustainable public goods funding, specifically designed to support **decentralized science** (DeSci) projects. The **Continuous Convertible Grants Framework** (CCGF) aims to become a **HyperStructure** -- an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
+This document describes an experimental framework for sustainable public goods funding, specifically designed to support *decentralized science* (DeSci) projects. 
+
+The **Continuous Convertible Grants Framework** (CCGF) aims to become a **HyperStructure** -- an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
 
 Inspired by successful mechanisms like Quadratic Funding, StreamingQF, and Gardens, CCGF represents an evolution of these approaches designed to create greater impact across the DeSci ecosystem. 
 
@@ -12,13 +14,15 @@ This is an evolving experiment, starting with the launch of **$MEGAPI** token an
 ---
 
 ## Executive Summary
-This framework describes a perpetual grants mechanism for decentralized science (DeSci). With CCGF:
+
+This framework describes a perpetual grants mechanism for *decentralized science* (DeSci). 
+
+With CCGF:
 - Projects receive continuous, real-time funding rather than discrete grants.
 - Convertible returns from successful projects flow back to the treasury.
 - Slashing mechanisms deter misuse of funds and maintain fairness.
 - Governance is handled through Gardens-based conviction voting to ensure low-attention, decentralized decision-making.
 - $MEGAPI token aligns incentives between projects and the wider ecosystem.
-
 
 ## Table of Contents
 
@@ -58,15 +62,17 @@ This framework describes a perpetual grants mechanism for decentralized science 
 
 ---
 
-The future of public goods funding isn't in discrete grants or centralized decision-making - it's in continuous, community-driven support systems that align incentives for long-term sustainability.
+
+The future of public goods funding isn't in discrete grants or centralized decision-making -- it's in continuous, community-driven support systems that align incentives for long-term sustainability.
 
 ## The Vision
 
-Public goods - from open-source software to scientific research - form the foundation of human progress. Yet we've failed to create sustainable funding mechanisms that match their importance. Traditional funding models are plagued by inefficiency, misaligned incentives, and unsustainable economics.
+**Public goods** -- from open-source software to scientific research -- form the foundation of human progress. Yet we've failed to create sustainable funding mechanisms that match their importance. Traditional funding models are plagued by inefficiency, misaligned incentives, and unsustainable economics.
 
-We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
+We propose a new paradigm: the **Continuous Convertible Grants Framework** (CCGF).
 
 ### Key Differentiators of CCGF
+
 - **Continuous Funding**: Unlike grant rounds with fixed windows, CCGF streams support in real-time.
 - **Convertible Returns**: Successful projects repay or share success back to the treasury, fueling future projects.
 - **Low-Attention Governance**: Powered by conviction voting, limiting the need for constant oversight.
@@ -75,30 +81,30 @@ We propose a new paradigm: The Continuous Convertible Grants Framework (CCGF).
 
 ## Key principles
 
-1. Collaborative Growth First
+1. **Collaborative Growth First**
    - Give before taking
    - Honor commitments
    - Practice sustainable sharing
    - Grow as a community
 
-2. Build for Perpetual Value
+2. **Build for Perpetual Value**
    - Design systems that compound benefits over time
    - Create supermodular games where collaboration multiplies value
 
-3. Automate for Public Good
+3. **Automate for Public Good**
    - Leverage AI for automation
    - Build self-sustaining HyperStructures
-   - Enable Universal Basic Income
+   - Enable Universal Basic Income (UBI)
 
-4. Prioritize Public Goods
+4. **Prioritize Public Goods**
    - Focus on collective benefits
    - Create shared resources and infrastructure
 
-5. Enable Coordinated Progress
+5. **Enable Coordinated Progress**
    - Overcome coordination failures (Moloch)
    - Solve multipolar traps through intentional cooperation
 
-6. Impact Over Token Price
+6. **Impact Over Token Price**
    - Prioritize scientific and social impact
    - Measure success through advancement of public goods
    - Focus on long-term value creation over short-term token appreciation
@@ -118,37 +124,37 @@ This creates a flywheel effect:
 
 [A place for a diagram.]
 
-
 ## Implementation: HyperDeSci Experiment Three: $MEGAPI
 
-To test the ideas in practice, we will launch a new experimental funding mechanism called $MEGAPI.
+To test the vision in practice, we will launch a new experimental funding mechanism powered by $MEGAPI.
 
 - Total Supply: π * 10^6 $MEGAPI
-- Current HyperDeSci Treasury: 0.15 ETH
+- Current **HyperDeSci** Treasury: 0.15 ETH
 - Token Utility:
   - Governance rights
   - Grant participation
 
 ### How to participate in Gardens
 
-1. For governance join Gardens (link tbd)
+1. For governance join Gardens (link TBD)
 2. Sign the ecosystem covenant
 3. Stake $MEGAPI tokens
-   - min 1k $MEGAPI tokens
+   - Minimum 1k $MEGAPI tokens
    - 10% staked $MEGAPI goes to treasury
 
 ### Governance Framework
-1. Proposal Types:
+
+1. **Proposal Types:**
    - Funding experiments
    - Parameter adjustments
    - Treasury management
    - Framework improvements
 
-2. Voting Process:
+2. **Voting Process:**
    - Conviction voting with time-weighted voting power
    - Minimum voting period: [X] days
 
-3. Proposal Requirements:
+3. **Proposal Requirements:**
    - Detailed impact assessment
    - Clear success metrics
    - Risk analysis
@@ -160,13 +166,14 @@ To test the ideas in practice, we will launch a new experimental funding mechani
 3. Once a project receives enough voting power the project will be accepted to funding experiment.
 
 ### Project Evaluation Criteria
-1. Impact Metrics:
+
+1. **Impact Metrics:**
    - Scientific/technical merit
    - Community benefit
    - Open-source commitment
    - Collaboration potential
 
-2. Reporting Requirements:
+2. **Reporting Requirements:**
    - Regular progress updates
    - Open documentation
    - Community engagement metrics
@@ -174,26 +181,31 @@ To test the ideas in practice, we will launch a new experimental funding mechani
 
 ### Funding experiments selection
 
-CCGF supports various continuous funding mechanisms. To find the most effective approaches, the community will test different funding models through controlled experiments.
+CCGF aims to support various continuous funding mechanisms. To find the most effective approaches, the community will test different funding models through controlled experiments.
 
 Each funding experiment follows this process:
-A community member proposes a new funding model, specifying:
+
+1. A community member proposes a new funding model, specifying:
    - Allocation of $MEGAPI tokens for the test
    - Duration of the test period
    - Detailed description of the funding mechanism to be tested
 
-Once the proposal receives sufficient support (e.g., 33% of the staked $MEGAPI tokens), the funding experiment begins. After launch, projects can apply to receive funding through this specific mechanism.
+2. Once the proposal receives sufficient support from ecosystem stakeholders (e.g., 33% of the staked $MEGAPI tokens), the funding experiment begins. 
+
+3. After launch, projects can apply to receive funding through this specific mechanism.
 
 For example, a funding experiment might test:
-1. Streaming QF: Real-time quadratic funding distribution
-2. Builder support: Direct funding similar to Commons Protocol
-3. Community staking: Stake-weighted funding allocation
+
+1. **Streaming QF:** Real-time quadratic funding distribution
+2. **Builder support:** Direct funding similar to Commons Protocol
+3. **Community staking:** Stake-weighted funding allocation
 
 ### First experiments
 
 We propose these experiments, new ones are welcome.
+
 1. Streaming QF
-2. Builder support like on commons protocol
+2. Builder support like on Commons Protocol
 3. Community staking
 
 ## HyperStructure Properties
@@ -238,21 +250,21 @@ These improvements will be developed through community governance and experiment
 
 ## Appendix 1: Glossary & Key Concepts
 
-- **Public Goods**: Resources or services that benefit everyone and cannot be restricted (like clean air, scientific knowledge, or open-source software). They are "non-rivalrous" (one person's use doesn't reduce availability for others) and "non-excludable" (can't prevent people from using it)
+- **Public Goods**: Resources or services that benefit everyone and cannot be restricted (like clean air, scientific knowledge, or open-source software). They are "non-rivalrous" (one person's use doesn't reduce availability for others) and "non-excludable" (can't prevent people from using it).
 
-- **HyperStructure**: A crypto-economic protocol that can run for free and forever, without maintenance, interruption, or intermediaries. Key properties include being unstoppable, free, valuable, and expansive
+- **HyperStructure**: A crypto-economic protocol that can run for free and forever, without maintenance, interruption, or intermediaries. Key properties include being unstoppable, free, valuable, and expansive.
 
-- **DeSci (Decentralized Science)**: Scientific research and funding conducted through decentralized web3 technologies
+- **DeSci (Decentralized Science)**: Scientific research and funding conducted through decentralized web3 technologies.
 
-- **Quadratic Funding**: A matching mechanism where the matching amount increases with the number of contributors
+- **Quadratic Funding**: A matching mechanism where the matching amount increases with the number of contributors.
 
-- **StreamingQF**: A continuous version of quadratic funding where support flows in real-time
+- **StreamingQF**: A continuous version of quadratic funding where support flows in real-time.
 
-- **Gardens**: A decentralized governance framework that enables communities to coordinate around shared resources
+- **Gardens**: A decentralized governance framework that enables communities to coordinate around shared resources.
 
-- **CCGF**: This framework - Continuous Convertible Grants Framework
+- **CCGF**: This framework - Continuous Convertible Grants Framework.
 
-- **Moloch**: A metaphor for coordination failures in society where individual incentives lead to collectively harmful outcomes
+- **Moloch**: A metaphor for coordination failures in society where individual incentives lead to collectively harmful outcomes.
 
 - **Multipolar Coordination Trap**: A situation where multiple actors, each acting in their own rational self-interest, create collectively suboptimal outcomes because they cannot effectively coordinate. Examples include:
   - Arms races where nations spend on weapons rather than social goods
@@ -260,13 +272,15 @@ These improvements will be developed through community governance and experiment
   - Research secrecy where sharing would benefit all but each party holds back
   This is a key challenge that CCGF aims to address through aligned incentives and collaborative mechanisms.
 
-- **DYOR**: Do Your Own Research
+- **DYOR**: Do Your Own Research.
 
-- **Slashing**: A mechanism to penalize projects for violating rules, typically by reducing their staked tokens
+- **Slashing**: A mechanism to penalize projects for violating rules, typically by reducing their staked tokens.
 
-- **Staking**: The act of locking up tokens to support a project or mechanism, typically to earn rewards or influence decision-making
-- **Conviction Voting**: A voting system where the weight of a vote decreases over time, encouraging long-term commitment
-- **HyperDeSci Treasury**: The treasury of the HyperDeSci ecosystem, holding $MEGAPI tokens and other ecosystem tokens
+- **Staking**: The act of locking up tokens to support a project or mechanism, typically to earn rewards or influence decision-making.
+
+- **Conviction Voting**: A voting system where the weight of a vote decreases over time, encouraging long-term commitment.
+
+- **HyperDeSci Treasury**: The treasury of the HyperDeSci ecosystem, holding $MEGAPI tokens and other ecosystem tokens.
 
 ### Appendix 2: Risk Factors
 
@@ -291,7 +305,6 @@ All participants acknowledge these risks when joining the ecosystem. The project
 
 ### Governance Risk
 - Reduced through transparent, on-chain voting and time-weighted conviction mechanisms
-
 
 ## References & Resources
 
