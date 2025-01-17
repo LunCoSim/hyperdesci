@@ -1,15 +1,15 @@
 # Continuous Convertible Grants Framework (draft)
 ## A Self-Sustaining Engine for Public Goods Funding
 
-This document describes an experimental framework for sustainable public goods funding, specifically designed to support *decentralized science* (DeSci) projects. 
+This document describes an experimental framework for sustainable public goods funding, specifically designed to support *decentralized science* [^1] (DeSci) projects. 
 
-The **Continuous Convertible Grants Framework** (CCGF) aims to become a **HyperStructure** -- an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
+The **Continuous Convertible Grants Framework** (CCGF) aims to become a **HyperStructure** [^2] -- an unstoppable, free, valuable, and expansive system that can perpetually support scientific advancement.
 
-Inspired by successful mechanisms like Quadratic Funding, StreamingQF, and Gardens, CCGF represents an evolution of these approaches designed to create greater impact across the DeSci ecosystem. 
+Inspired by successful mechanisms like *Quadratic Funding* [^3], *StreamingQF* [^4], and *Gardens* [^5], CCGF represents an evolution of these approaches designed to create greater impact across the DeSci ecosystem.
 
-If you are new to web3 and these terms we suggest to start reading the [Appendix 1: Glossary & Key Concepts](#appendix-1-glossary--key-concepts)
+If you are new to *Web3* and these terms, we suggest to start reading the [Appendix 1: Glossary & Key Concepts](#appendix-1-glossary--key-concepts)
 
-This is an evolving experiment, starting with the launch of **$MEGAPI** token and Gardens-based governance.
+This is an evolving experiment, starting with the launch of **$MEGAPI** token and *Gardens*-based governance.
 
 ---
 
@@ -17,7 +17,7 @@ This is an evolving experiment, starting with the launch of **$MEGAPI** token an
 
 This framework describes a perpetual grants mechanism for *decentralized science* (DeSci). 
 
-With CCGF:
+**With CCGF:**
 - Projects receive continuous, real-time funding rather than discrete grants.
 - Convertible returns from successful projects flow back to the treasury.
 - Slashing mechanisms deter misuse of funds and maintain fairness.
@@ -55,7 +55,7 @@ With CCGF:
 
 7. [References & Resources](#references--resources)
    - Concepts
-   - Inspiational Projects
+   - Inspirational Projects
    - Contact & Community
 
 8. [Implementation Roadmap](#implementation-roadmap)
@@ -327,3 +327,9 @@ All participants acknowledge these risks when joining the ecosystem. The project
 
 - Twitter: [@HyperDeSci](https://x.com/hyperdesci)
 - Telegram: [Join HyperDeSci](https://t.me/hyperdesci)
+
+[^1]: https://ethereum.org/en/desci/
+[^2]: https://jacob.energy/hyperstructures.html
+[^3]: https://www.wtfisqf.com/
+[^4]: https://github.com/Geo-Web-Project/streaming-quadratic-funding
+[^5]: https://docs.gardens.fund/
