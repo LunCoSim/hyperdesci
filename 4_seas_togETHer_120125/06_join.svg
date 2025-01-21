@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#1a1a2e"/>
+    
+    <!-- Title -->
+    <text x="960" y="150" font-family="Arial, sans-serif" font-size="48" 
+          fill="#ffffff" text-anchor="middle" font-weight="bold">
+        Join the HyperDeSci Community
+    </text>
+    
+    <!-- Social Media Links -->
+    <g transform="translate(960,400)">
+        <!-- Telegram -->
+        <g transform="translate(0,0)">
+            <rect x="-200" y="-50" width="400" height="100" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="32" 
+                  fill="#ffffff" text-anchor="middle">Telegram</text>
+            <text x="0" y="30" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#4CAF50" text-anchor="middle">@hyperdesci</text>
+        </g>
+        
+        <!-- Twitter -->
+        <g transform="translate(0,150)">
+            <rect x="-200" y="-50" width="400" height="100" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="32" 
+                  fill="#ffffff" text-anchor="middle">Twitter</text>
+            <text x="0" y="30" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#4CAF50" text-anchor="middle">@HyperDeSci</text>
+        </g>
+    </g>
+    
+    <!-- Bottom Message -->
+    <text x="960" y="900" font-family="Arial, sans-serif" font-size="36" 
+          fill="#ffffff" text-anchor="middle">
+        Help us build the future of scientific funding
+    </text>
+    
+    <!-- $MEGAPI Token -->
+    <text x="960" y="980" font-family="Arial, sans-serif" font-size="24" 
+          fill="#4CAF50" text-anchor="middle">
+        $MEGAPI Token
+    </text>
+</svg> 

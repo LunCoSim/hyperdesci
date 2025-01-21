@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#1a1a2e"/>
+    
+    <!-- Title -->
+    <text x="960" y="150" font-family="Arial, sans-serif" font-size="48" 
+          fill="#ffffff" text-anchor="middle" font-weight="bold">
+        Public Goods Funding is Broken
+    </text>
+    
+    <!-- Left Side: Traditional -->
+    <rect x="100" y="250" width="800" height="600" fill="#2a2a3e" rx="20"/>
+    <text x="500" y="300" font-family="Arial, sans-serif" font-size="36" 
+          fill="#ff4444" text-anchor="middle">Traditional Funding</text>
+    
+    <!-- Traditional funding problems -->
+    <g font-family="Arial, sans-serif" font-size="24" fill="#ffffff">
+        <text x="150" y="380">❌ Discrete grant rounds</text>
+        <text x="150" y="440">❌ High bureaucracy</text>
+        <text x="150" y="500">❌ Misaligned incentives</text>
+        <text x="150" y="560">❌ Centralized decision making</text>
+        <text x="150" y="620">❌ Limited feedback loops</text>
+    </g>
+    
+    <!-- Right Side: CCGF Solution -->
+    <rect x="1020" y="250" width="800" height="600" fill="#2a2a3e" rx="20"/>
+    <text x="1420" y="300" font-family="Arial, sans-serif" font-size="36" 
+          fill="#4CAF50" text-anchor="middle">CCGF Solution</text>
+    
+    <!-- CCGF benefits -->
+    <g font-family="Arial, sans-serif" font-size="24" fill="#ffffff">
+        <text x="1070" y="380">✅ Continuous streaming</text>
+        <text x="1070" y="440">✅ Automated distribution</text>
+        <text x="1070" y="500">✅ Aligned incentives</text>
+        <text x="1070" y="560">✅ Community governance</text>
+        <text x="1070" y="620">✅ Value feedback loops</text>
+    </g>
+    
+    <!-- Arrow between panels -->
+    <path d="M 920 550 L 1000 550" stroke="#ffffff" stroke-width="4" marker-end="url(#arrow)"/>
+    <defs>
+        <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
+                markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#ffffff"/>
+        </marker>
+    </defs>
+</svg> 
