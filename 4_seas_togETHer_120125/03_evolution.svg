@@ -6,64 +6,76 @@
     <!-- Title -->
     <text x="960" y="150" font-family="Arial, sans-serif" font-size="48" 
           fill="#ffffff" text-anchor="middle" font-weight="bold">
-        Evolution of Web3 Funding Solutions
+        State of Web3 Funding Solutions
     </text>
-    
-    <!-- Timeline -->
-    <line x1="200" y1="500" x2="1720" y2="500" 
-          stroke="#ffffff" stroke-width="4"/>
-    
-    <!-- Timeline Points -->
-    <!-- Gitcoin -->
-    <circle cx="300" cy="500" r="20" fill="#4CAF50"/>
-    <text x="300" y="450" font-family="Arial, sans-serif" font-size="24" 
-          fill="#ffffff" text-anchor="middle">Gitcoin</text>
-    <text x="300" y="580" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Quadratic</text>
-    <text x="300" y="610" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Funding</text>
-    
-    <!-- Octant -->
-    <circle cx="700" cy="500" r="20" fill="#4CAF50"/>
-    <text x="700" y="450" font-family="Arial, sans-serif" font-size="24" 
-          fill="#ffffff" text-anchor="middle">Octant</text>
-    <text x="700" y="580" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Novel Funding</text>
-    <text x="700" y="610" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Mechanisms</text>
-    
-    <!-- Giveth -->
-    <circle cx="1100" cy="500" r="20" fill="#4CAF50"/>
-    <text x="1100" y="450" font-family="Arial, sans-serif" font-size="24" 
-          fill="#ffffff" text-anchor="middle">Giveth</text>
-    <text x="1100" y="580" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Community-Driven</text>
-    <text x="1100" y="610" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Funding</text>
-    
-    <!-- CCGF -->
-    <circle cx="1500" cy="500" r="30" fill="#4CAF50"/>
-    <text x="1500" y="450" font-family="Arial, sans-serif" font-size="32" 
-          fill="#ffffff" text-anchor="middle" font-weight="bold">CCGF</text>
-    <text x="1500" y="580" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Continuous &amp;</text>
-    <text x="1500" y="610" font-family="Arial, sans-serif" font-size="20" 
-          fill="#ffffff" text-anchor="middle">Convertible</text>
-    
-    <!-- Evolution Arrow -->
-    <text x="200" y="700" font-family="Arial, sans-serif" font-size="24" 
-          fill="#ffffff">Discrete</text>
-    <text x="1720" y="700" font-family="Arial, sans-serif" font-size="24" 
-          fill="#ffffff" text-anchor="end">Continuous</text>
-    
-    <!-- Gradient arrow connecting points -->
-    <defs>
-        <linearGradient id="arrow-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:0.3" />
-            <stop offset="100%" style="stop-color:#4CAF50;stop-opacity:1" />
-        </linearGradient>
-    </defs>
-    <path d="M 200 750 L 1720 750" 
-          stroke="url(#arrow-gradient)" stroke-width="8" 
-          marker-end="url(#arrow)"/>
+
+    <!-- Category Labels -->
+    <text x="480" y="250" font-family="Arial, sans-serif" font-size="36" 
+          fill="#ff4444" text-anchor="middle">Discrete Funding</text>
+    <text x="1440" y="250" font-family="Arial, sans-serif" font-size="36" 
+          fill="#4CAF50" text-anchor="middle">Continuous Funding</text>
+
+    <!-- Discrete Solutions (Left) -->
+    <g>
+        <!-- Gitcoin -->
+        <circle cx="480" cy="350" r="25" fill="#ff4444"/>
+        <text x="480" y="310" font-family="Arial, sans-serif" font-size="36" 
+              fill="#ffffff" text-anchor="middle" font-weight="bold">Gitcoin</text>
+        <text x="480" y="400" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Quadratic</text>
+        <text x="480" y="430" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Funding</text>
+
+        <!-- Giveth -->
+        <circle cx="480" cy="520" r="25" fill="#ff4444"/>
+        <text x="480" y="480" font-family="Arial, sans-serif" font-size="36" 
+              fill="#ffffff" text-anchor="middle" font-weight="bold">Giveth</text>
+        <text x="480" y="570" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Community-Driven</text>
+        <text x="480" y="600" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Funding</text>
+
+        <!-- Octant -->
+        <circle cx="480" cy="690" r="25" fill="#ff4444"/>
+        <text x="480" y="650" font-family="Arial, sans-serif" font-size="36" 
+              fill="#ffffff" text-anchor="middle" font-weight="bold">Octant</text>
+        <text x="480" y="740" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Novel Funding</text>
+        <text x="480" y="770" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Mechanisms</text>
+    </g>
+
+    <!-- Continuous Solutions (Right) -->
+    <g>
+        <!-- StreamingQF -->
+        <circle cx="1440" cy="350" r="25" fill="#4CAF50"/>
+        <text x="1440" y="310" font-family="Arial, sans-serif" font-size="36" 
+              fill="#ffffff" text-anchor="middle" font-weight="bold">StreamingQF</text>
+        <text x="1440" y="400" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Real-time</text>
+        <text x="1440" y="430" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Quadratic Funding</text>
+
+        <!-- Commons -->
+        <circle cx="1440" cy="520" r="25" fill="#4CAF50"/>
+        <text x="1440" y="480" font-family="Arial, sans-serif" font-size="36" 
+              fill="#ffffff" text-anchor="middle" font-weight="bold">Commons</text>
+        <text x="1440" y="570" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Direct Builder</text>
+        <text x="1440" y="600" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Support</text>
+
+        <!-- CCGF -->
+        <circle cx="1440" cy="690" r="35" fill="#4CAF50"/>
+        <text x="1440" y="650" font-family="Arial, sans-serif" font-size="42" 
+              fill="#ffffff" text-anchor="middle" font-weight="bold">CCGF</text>
+        <text x="1440" y="740" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Continuous &amp;</text>
+        <text x="1440" y="770" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Convertible</text>
+    </g>
+
+    <!-- Dividing Line -->
+    <line x1="960" y1="200" x2="960" y2="850" 
+          stroke="#ffffff" stroke-width="2" stroke-dasharray="10,10"/>
 </svg> 
