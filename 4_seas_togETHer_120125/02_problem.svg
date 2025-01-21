@@ -26,7 +26,7 @@
     <!-- Right Side: CCGF Solution -->
     <rect x="1020" y="250" width="800" height="600" fill="#2a2a3e" rx="20"/>
     <text x="1420" y="300" font-family="Arial, sans-serif" font-size="36" 
-          fill="#4CAF50" text-anchor="middle">CCGF Solution</text>
+          fill="#56f5ff" text-anchor="middle">CCGF Solution</text>
     
     <!-- CCGF benefits -->
     <g font-family="Arial, sans-serif" font-size="24" fill="#ffffff">

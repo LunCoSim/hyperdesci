@@ -13,7 +13,7 @@
     <text x="480" y="250" font-family="Arial, sans-serif" font-size="36" 
           fill="#ff4444" text-anchor="middle">Discrete Funding</text>
     <text x="1440" y="250" font-family="Arial, sans-serif" font-size="36" 
-          fill="#4CAF50" text-anchor="middle">Continuous Funding</text>
+          fill="#56f5ff" text-anchor="middle">Continuous Funding</text>
 
     <!-- Discrete Solutions (Left) -->
     <g>
@@ -48,7 +48,7 @@
     <!-- Continuous Solutions (Right) -->
     <g>
         <!-- StreamingQF -->
-        <circle cx="1440" cy="350" r="25" fill="#4CAF50"/>
+        <circle cx="1440" cy="350" r="25" fill="#56f5ff"/>
         <text x="1440" y="310" font-family="Arial, sans-serif" font-size="36" 
               fill="#ffffff" text-anchor="middle" font-weight="bold">StreamingQF</text>
         <text x="1440" y="400" font-family="Arial, sans-serif" font-size="24" 
@@ -57,7 +57,7 @@
               fill="#ffffff" text-anchor="middle">Quadratic Funding</text>
 
         <!-- Commons -->
-        <circle cx="1440" cy="520" r="25" fill="#4CAF50"/>
+        <circle cx="1440" cy="520" r="25" fill="#56f5ff"/>
         <text x="1440" y="480" font-family="Arial, sans-serif" font-size="36" 
               fill="#ffffff" text-anchor="middle" font-weight="bold">Commons</text>
         <text x="1440" y="570" font-family="Arial, sans-serif" font-size="24" 
@@ -66,7 +66,7 @@
               fill="#ffffff" text-anchor="middle">Support</text>
 
         <!-- CCGF -->
-        <circle cx="1440" cy="690" r="35" fill="#4CAF50"/>
+        <circle cx="1440" cy="690" r="35" fill="#56f5ff"/>
         <text x="1440" y="650" font-family="Arial, sans-serif" font-size="42" 
               fill="#ffffff" text-anchor="middle" font-weight="bold">CCGF</text>
         <text x="1440" y="740" font-family="Arial, sans-serif" font-size="24" 

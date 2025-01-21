@@ -63,7 +63,7 @@
          height="100"
          rx="20"
          fill="#2a2a3e"
-         stroke="#4caf50"
+         stroke="#56f5ff"
          stroke-width="2"
          id="rect2" />
       <text
@@ -79,7 +79,7 @@
          y="30"
          font-family="Arial, sans-serif"
          font-size="24px"
-         fill="#4caf50"
+         fill="#56f5ff"
          text-anchor="middle"
          id="text3">@hyperdesci</text>
     </g>
@@ -2416,7 +2416,7 @@
      y="980"
      font-family="Arial, sans-serif"
      font-size="24"
-     fill="#4CAF50"
+     fill="#56f5ff"
      text-anchor="middle"
      id="text333">
         $MEGAPI Token

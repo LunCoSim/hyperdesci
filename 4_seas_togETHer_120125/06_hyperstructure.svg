@@ -13,14 +13,14 @@
     <g transform="translate(960,580)">
         <!-- Center hexagon -->
         <path d="M 0,-180 L 156,-90 L 156,90 L 0,180 L -156,90 L -156,-90 Z" 
-              fill="#2a2a3e" stroke="#4CAF50" stroke-width="3"/>
+              fill="#2a2a3e" stroke="#56f5ff" stroke-width="3"/>
         <text x="0" y="0" font-family="Arial, sans-serif" font-size="50" 
               fill="#ffffff" text-anchor="middle" dy=".3em">CCGF</text>
         
         <!-- Unstoppable (top) -->
         <g transform="translate(0,-300)">
             <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Unstoppable</text>
             <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
@@ -30,7 +30,7 @@
         <!-- Expansive (top left) -->
         <g transform="translate(-260,-150)">
             <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Expansive</text>
             <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
@@ -42,7 +42,7 @@
         <!-- Valuable (top right) -->
         <g transform="translate(260,-150)">
             <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Valuable</text>
             <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
@@ -52,7 +52,7 @@
         <!-- Free (bottom left) -->
         <g transform="translate(-260,150)">
             <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Free</text>
             <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
@@ -62,7 +62,7 @@
         <!-- Permissionless (bottom right) -->
         <g transform="translate(260,150)">
             <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="30" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Permissionless</text>
             <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
@@ -72,7 +72,7 @@
         <!-- Neutral (bottom) -->
         <g transform="translate(0,300)">
             <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Neutral</text>
             <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
@@ -81,16 +81,16 @@
         
         <!-- Connecting lines from edges -->
         <!-- Top connection -->
-        <path d="M 0,-180 L 0,-180" stroke="#4CAF50" stroke-width="2"/>
+        <path d="M 0,-180 L 0,-180" stroke="#56f5ff" stroke-width="2"/>
         <!-- Bottom connection -->
-        <path d="M 0,180 L 0,180" stroke="#4CAF50" stroke-width="2"/>
+        <path d="M 0,180 L 0,180" stroke="#56f5ff" stroke-width="2"/>
         <!-- Left Top connection -->
-        <path d="M -156,-90 L -156,-90" stroke="#4CAF50" stroke-width="2"/>
+        <path d="M -156,-90 L -156,-90" stroke="#56f5ff" stroke-width="2"/>
         <!-- Right Top connection -->
-        <path d="M 156,-90 L 156,-90" stroke="#4CAF50" stroke-width="2"/>
+        <path d="M 156,-90 L 156,-90" stroke="#56f5ff" stroke-width="2"/>
         <!-- Left Bottom connection -->
-        <path d="M -156,90 L -156,90" stroke="#4CAF50" stroke-width="2"/>
+        <path d="M -156,90 L -156,90" stroke="#56f5ff" stroke-width="2"/>
         <!-- Right Bottom connection -->
-        <path d="M 156,90 L 156,90" stroke="#4CAF50" stroke-width="2"/>
+        <path d="M 156,90 L 156,90" stroke="#56f5ff" stroke-width="2"/>
     </g>
 </svg> 

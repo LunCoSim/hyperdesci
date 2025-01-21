@@ -32,7 +32,7 @@
     
     <!-- $MEGAPI Symbol -->
     <text x="960" y="650" font-family="Arial, sans-serif" font-size="48" 
-          fill="#4CAF50" text-anchor="middle" font-weight="bold">
+          fill="#56f5ff" text-anchor="middle" font-weight="bold">
         $MEGAPI
     </text>
 

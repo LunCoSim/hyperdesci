@@ -13,7 +13,7 @@
     <g transform="translate(960,540)">
         <!-- Center circle -->
         <circle cx="0" cy="0" r="120" 
-                fill="#2a2a3e" stroke="#4CAF50" stroke-width="3"/>
+                fill="#2a2a3e" stroke="#56f5ff" stroke-width="3"/>
         <text x="0" y="-20" font-family="Arial, sans-serif" font-size="36" 
               fill="#ffffff" text-anchor="middle">CCGF</text>
         <text x="0" y="20" font-family="Arial, sans-serif" font-size="24" 
@@ -22,7 +22,7 @@
         <!-- MegaPI (Top) - closer to center -->
         <g transform="translate(0,-260)">
             <rect x="-150" y="-80" width="300" height="140" rx="20" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Protocol Incentives</text>
             <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
@@ -34,7 +34,7 @@
         <!-- Convertible Grants (Top Right) - adjusted position -->
         <g transform="translate(360,-80)">
             <rect x="-150" y="-80" width="300" height="140" rx="20" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Convertible Grants</text>
             <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
@@ -46,7 +46,7 @@
         <!-- Gardens (Bottom Right) - further out -->
         <g transform="translate(196,270)">
             <rect x="-150" y="-80" width="300" height="140" rx="20" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Continuous Eligibility</text>
             <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
@@ -58,7 +58,7 @@
         <!-- Continuous Funding (Bottom Left) - further out -->
         <g transform="translate(-196,270)">
             <rect x="-150" y="-80" width="300" height="140" rx="20" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Continuous Funding</text>
             <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
@@ -70,7 +70,7 @@
         <!-- Slashing (Top Left) - adjusted position -->
         <g transform="translate(-360,-80)">
             <rect x="-150" y="-80" width="300" height="140" rx="20" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+                  fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Slashing Mechanism</text>
             <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
@@ -80,15 +80,15 @@
         </g>
 
         <!-- Connecting curved arrows - made bigger -->
-        <path d="M 0,-150 A 150,150 0 0,1 142,49" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-        <path d="M 142,49 A 150,150 0 0,1 -142,49" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-        <path d="M -142,49 A 150,150 0 0,1 0,-150" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+        <path d="M 0,-150 A 150,150 0 0,1 142,49" stroke="#56f5ff" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+        <path d="M 142,49 A 150,150 0 0,1 -142,49" stroke="#56f5ff" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+        <path d="M -142,49 A 150,150 0 0,1 0,-150" stroke="#56f5ff" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
 
         <!-- Arrow marker definition -->
         <defs>
             <marker id="arrowhead" markerWidth="10" markerHeight="7" 
                    refX="9" refY="3.5" orient="auto">
-                <polygon points="0 0, 10 3.5, 0 7" fill="#4CAF50"/>
+                <polygon points="0 0, 10 3.5, 0 7" fill="#56f5ff"/>
             </marker>
         </defs>
 
@@ -99,8 +99,8 @@
         <!-- Gradient definition -->
         <defs>
             <radialGradient id="radialGradient" cx="0.5" cy="0.5" r="0.5">
-                <stop offset="0%" stop-color="#4CAF50" stop-opacity="0.3"/>
-                <stop offset="100%" stop-color="#4CAF50" stop-opacity="0"/>
+                <stop offset="0%" stop-color="#56f5ff" stop-opacity="0.3"/>
+                <stop offset="100%" stop-color="#56f5ff" stop-opacity="0"/>
             </radialGradient>
         </defs>
     </g>

@@ -15,33 +15,33 @@
         <circle r="310" fill="#56f5ff" opacity="0.1"/>
         
         <!-- Main circle -->
-        <circle r="280" fill="none" stroke="#4CAF50" stroke-width="4"/>
+        <circle r="280" fill="none" stroke="#56f5ff" stroke-width="4"/>
         
         <!-- Components positioned at 90-degree intervals -->
         <!-- Treasury (top) -->
         <g transform="translate(0,-250)">
-            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <circle r="70" fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Treasury</text>
         </g>
         
         <!-- Projects (right) -->
         <g transform="translate(250,0)">
-            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <circle r="70" fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Projects</text>
         </g>
         
         <!-- Value (bottom) -->
         <g transform="translate(0,250)">
-            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <circle r="70" fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Value</text>
         </g>
         
         <!-- Token Value (left) - split into two lines -->
         <g transform="translate(-250,0)">
-            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <circle r="70" fill="#2a2a3e" stroke="#56f5ff" stroke-width="2"/>
             <text x="0" y="-15" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Token</text>
             <text x="0" y="20" font-family="Arial, sans-serif" font-size="28" 
