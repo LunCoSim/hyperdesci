@@ -4,59 +4,55 @@
     <rect width="100%" height="100%" fill="#1a1a2e"/>
     
     <!-- Title -->
-    <text x="960" y="150" font-family="Arial, sans-serif" font-size="48" 
+    <text x="960" y="120" font-family="Arial, sans-serif" font-size="48" 
           fill="#ffffff" text-anchor="middle" font-weight="bold">
         CCGF Flywheel Effect
     </text>
     
     <!-- Flywheel Circle -->
-    <g transform="translate(960,540)">
-        <!-- Rotating circle animation -->
-        <animateTransform attributeName="transform"
-                          attributeType="XML"
-                          type="rotate"
-                          from="0 0 0"
-                          to="360 0 0"
-                          dur="20s"
-                          repeatCount="indefinite"/>
+    <g transform="translate(960,520)">
+        <!-- Subtle background glow for main circle -->
+        <circle r="310" fill="#56f5ff" opacity="0.1"/>
         
         <!-- Main circle -->
-        <circle r="300" fill="none" stroke="#4CAF50" stroke-width="4"/>
+        <circle r="280" fill="none" stroke="#4CAF50" stroke-width="4"/>
         
-        <!-- Components -->
-        <!-- Projects -->
-        <g transform="translate(0,-300)">
-            <circle r="80" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Projects</text>
-        </g>
-        
-        <!-- Value -->
-        <g transform="translate(260,150)">
-            <circle r="80" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Value</text>
-        </g>
-        
-        <!-- Token Value -->
-        <g transform="translate(-260,150)">
-            <circle r="80" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Token Value</text>
-        </g>
-        
-        <!-- Treasury -->
-        <g transform="translate(0,300)">
-            <circle r="80" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
+        <!-- Components positioned at 90-degree intervals -->
+        <!-- Treasury (top) -->
+        <g transform="translate(0,-250)">
+            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Treasury</text>
         </g>
         
-        <!-- Connecting arrows -->
-        <path d="M 0,-220 L 180,-87" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
-        <path d="M 180,87 L 0,220" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
-        <path d="M -180,87 L 0,220" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
-        <path d="M 0,-220 L -180,-87" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
+        <!-- Projects (right) -->
+        <g transform="translate(250,0)">
+            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle" dy=".3em">Projects</text>
+        </g>
+        
+        <!-- Value (bottom) -->
+        <g transform="translate(0,250)">
+            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle" dy=".3em">Value</text>
+        </g>
+        
+        <!-- Token Value (left) - split into two lines -->
+        <g transform="translate(-250,0)">
+            <circle r="70" fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-15" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle">Token</text>
+            <text x="0" y="20" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle">Value</text>
+        </g>
+        
+        <!-- Connecting arrows with curved paths following the circle clockwise -->
+        <path d="M 0,-180 Q 120,-120 180,0" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M 180,0 Q 120,120 0,180" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M 0,180 Q -120,120 -180,0" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M -180,0 Q -120,-120 0,-180" stroke="#ffffff" stroke-width="2" marker-end="url(#arrow)"/>
     </g>
     
     <!-- Arrow marker definition -->
@@ -68,7 +64,7 @@
     </defs>
     
     <!-- Description -->
-    <text x="960" y="950" font-family="Arial, sans-serif" font-size="24" 
+    <text x="960" y="920" font-family="Arial, sans-serif" font-size="24" 
           fill="#ffffff" text-anchor="middle">
         A self-reinforcing cycle of value creation and distribution
     </text>
