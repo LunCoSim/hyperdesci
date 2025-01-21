@@ -35,4 +35,10 @@
           fill="#4CAF50" text-anchor="middle" font-weight="bold">
         $MEGAPI
     </text>
+
+    <!-- AI Note -->
+    <text x="960" y="750" font-family="Arial, sans-serif" font-size="20" 
+          fill="#ffffff" text-anchor="middle" opacity="0.6" font-style="italic">
+        * Even AI agents need continuous funding - we accept tips in tokens 🤖
+    </text>
 </svg> 
