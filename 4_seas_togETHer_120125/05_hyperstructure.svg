@@ -4,63 +4,93 @@
     <rect width="100%" height="100%" fill="#1a1a2e"/>
     
     <!-- Title -->
-    <text x="960" y="150" font-family="Arial, sans-serif" font-size="48" 
+    <text x="960" y="120" font-family="Arial, sans-serif" font-size="48" 
           fill="#ffffff" text-anchor="middle" font-weight="bold">
         HyperStructure Properties
     </text>
     
     <!-- Properties as hexagons -->
-    <g transform="translate(960,540)">
+    <g transform="translate(960,580)">
         <!-- Center hexagon -->
-        <path d="M 0,-150 L 130,-75 L 130,75 L 0,150 L -130,75 L -130,-75 Z" 
+        <path d="M 0,-180 L 156,-90 L 156,90 L 0,180 L -156,90 L -156,-90 Z" 
               fill="#2a2a3e" stroke="#4CAF50" stroke-width="3"/>
-        <text x="0" y="0" font-family="Arial, sans-serif" font-size="32" 
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="50" 
               fill="#ffffff" text-anchor="middle" dy=".3em">CCGF</text>
         
-        <!-- Unstoppable -->
-        <g transform="translate(0,-260)">
-            <path d="M 0,-50 L 43,-25 L 43,25 L 0,50 L -43,25 L -43,-25 Z" 
+        <!-- Unstoppable (top) -->
+        <g transform="translate(0,-300)">
+            <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
                   fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Unstoppable</text>
-            <text x="0" y="80" font-family="Arial, sans-serif" font-size="16" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">No central admin</text>
+            <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">No central admin</text>
         </g>
         
-        <!-- Free -->
-        <g transform="translate(-225,130)">
-            <path d="M 0,-50 L 43,-25 L 43,25 L 0,50 L -43,25 L -43,-25 Z" 
+        <!-- Expansive (top left) -->
+        <g transform="translate(-260,-150)">
+            <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
                   fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Free</text>
-            <text x="0" y="80" font-family="Arial, sans-serif" font-size="16" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Only gas costs</text>
-        </g>
-        
-        <!-- Valuable -->
-        <g transform="translate(225,130)">
-            <path d="M 0,-50 L 43,-25 L 43,25 L 0,50 L -43,25 L -43,-25 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Valuable</text>
-            <text x="0" y="80" font-family="Arial, sans-serif" font-size="16" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Treasury growth</text>
-        </g>
-        
-        <!-- Expansive -->
-        <g transform="translate(0,260)">
-            <path d="M 0,-50 L 43,-25 L 43,25 L 0,50 L -43,25 L -43,-25 Z" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" 
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
                   fill="#ffffff" text-anchor="middle" dy=".3em">Expansive</text>
-            <text x="0" y="80" font-family="Arial, sans-serif" font-size="16" 
-                  fill="#ffffff" text-anchor="middle" dy=".3em">Multiple experiments</text>
+            <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">Multiple experiments</text>
+            <text x="0" y="60" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">Flywheel effect</text>
         </g>
         
-        <!-- Connecting lines -->
-        <line x1="0" y1="-150" x2="0" y2="-210" stroke="#4CAF50" stroke-width="2"/>
-        <line x1="-130" y1="75" x2="-225" y2="130" stroke="#4CAF50" stroke-width="2"/>
-        <line x1="130" y1="75" x2="225" y2="130" stroke="#4CAF50" stroke-width="2"/>
-        <line x1="0" y1="150" x2="0" y2="210" stroke="#4CAF50" stroke-width="2"/>
+        <!-- Valuable (top right) -->
+        <g transform="translate(260,-150)">
+            <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
+                  fill="#ffffff" text-anchor="middle" dy=".3em">Valuable</text>
+            <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">Treasury growth</text>
+        </g>
+        
+        <!-- Free (bottom left) -->
+        <g transform="translate(-260,150)">
+            <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
+                  fill="#ffffff" text-anchor="middle" dy=".3em">Free</text>
+            <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">Only gas costs</text>
+        </g>
+
+        <!-- Permissionless (bottom right) -->
+        <g transform="translate(260,150)">
+            <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="30" 
+                  fill="#ffffff" text-anchor="middle" dy=".3em">Permissionless</text>
+            <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">Open participation</text>
+        </g>
+
+        <!-- Neutral (bottom) -->
+        <g transform="translate(0,300)">
+            <path d="M 0,-120 L 104,-60 L 104,60 L 0,120 L -104,60 L -104,-60 Z" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="0" font-family="Arial, sans-serif" font-size="34" 
+                  fill="#ffffff" text-anchor="middle" dy=".3em">Neutral</text>
+            <text x="0" y="35" font-family="Arial, sans-serif" font-size="22" 
+                  fill="#ffffff" text-anchor="middle">Fair rules for all</text>
+        </g>
+        
+        <!-- Connecting lines from edges -->
+        <!-- Top connection -->
+        <path d="M 0,-180 L 0,-180" stroke="#4CAF50" stroke-width="2"/>
+        <!-- Bottom connection -->
+        <path d="M 0,180 L 0,180" stroke="#4CAF50" stroke-width="2"/>
+        <!-- Left Top connection -->
+        <path d="M -156,-90 L -156,-90" stroke="#4CAF50" stroke-width="2"/>
+        <!-- Right Top connection -->
+        <path d="M 156,-90 L 156,-90" stroke="#4CAF50" stroke-width="2"/>
+        <!-- Left Bottom connection -->
+        <path d="M -156,90 L -156,90" stroke="#4CAF50" stroke-width="2"/>
+        <!-- Right Bottom connection -->
+        <path d="M 156,90 L 156,90" stroke="#4CAF50" stroke-width="2"/>
     </g>
 </svg> 
