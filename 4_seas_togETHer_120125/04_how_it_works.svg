@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#1a1a2e"/>
+    
+    <!-- Title -->
+    <text x="960" y="120" font-family="Arial, sans-serif" font-size="48" 
+          fill="#ffffff" text-anchor="middle" font-weight="bold">
+        How CCGF Works
+    </text>
+
+    <!-- Main content container -->
+    <g transform="translate(960,580)">
+        <!-- Step 1 -->
+        <g transform="translate(-600,-150)">
+            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
+                  fill="#ffffff" text-anchor="middle">Instead of Direct Grants</text>
+            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Using MegaPI</text>
+            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
+                  fill="#ffffff" text-anchor="middle">Protocol-level incentives</text>
+        </g>
+
+        <!-- Step 2 -->
+        <g transform="translate(-200,-150)">
+            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
+                  fill="#ffffff" text-anchor="middle">Convertible Grants</text>
+            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Voluntary Reimbursement</text>
+            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
+                  fill="#ffffff" text-anchor="middle">When Projects Mature</text>
+        </g>
+
+        <!-- Step 3 -->
+        <g transform="translate(200,-150)">
+            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
+                  fill="#ffffff" text-anchor="middle">Gardens Governance</text>
+            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Decentralized Decision</text>
+            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
+                  fill="#ffffff" text-anchor="middle">Making Process</text>
+        </g>
+
+        <!-- Step 4 -->
+        <g transform="translate(600,-150)">
+            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
+                  fill="#ffffff" text-anchor="middle">Continuous Funding</text>
+            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Conviction Voting</text>
+            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
+                  fill="#ffffff" text-anchor="middle">For Eligibility</text>
+        </g>
+
+        <!-- Connecting arrows -->
+        <path d="M -400,-150 L -200,-150" stroke="#4CAF50" stroke-width="2" marker-end="url(#arrowhead)"/>
+        <path d="M 0,-150 L 200,-150" stroke="#4CAF50" stroke-width="2" marker-end="url(#arrowhead)"/>
+        <path d="M 400,-150 L 600,-150" stroke="#4CAF50" stroke-width="2" marker-end="url(#arrowhead)"/>
+
+        <!-- Arrow marker definition -->
+        <defs>
+            <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+                   refX="9" refY="3.5" orient="auto">
+                <polygon points="0 0, 10 3.5, 0 7" fill="#4CAF50"/>
+            </marker>
+        </defs>
+    </g>
+
+    <!-- Description text at bottom -->
+    <text x="960" y="920" font-family="Arial, sans-serif" font-size="24" 
+          fill="#ffffff" text-anchor="middle">
+        Experimental approach to sustainable public goods funding
+    </text>
+</svg> 
