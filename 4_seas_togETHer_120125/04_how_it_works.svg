@@ -10,59 +10,79 @@
     </text>
 
     <!-- Main content container -->
-    <g transform="translate(960,580)">
-        <!-- Step 1 -->
-        <g transform="translate(-600,-150)">
-            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+    <g transform="translate(960,540)">
+        <!-- Center circle -->
+        <circle cx="0" cy="0" r="120" 
+                fill="#2a2a3e" stroke="#4CAF50" stroke-width="3"/>
+        <text x="0" y="-20" font-family="Arial, sans-serif" font-size="36" 
+              fill="#ffffff" text-anchor="middle">CCGF</text>
+        <text x="0" y="20" font-family="Arial, sans-serif" font-size="24" 
+              fill="#ffffff" text-anchor="middle">Mechanism</text>
+
+        <!-- MegaPI (Top) - closer to center -->
+        <g transform="translate(0,-260)">
+            <rect x="-150" y="-80" width="300" height="140" rx="20" 
                   fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
+            <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle">Protocol Incentives</text>
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">MegaPI</text>
+            <text x="0" y="25" font-family="Arial, sans-serif" font-size="18" 
                   fill="#ffffff" text-anchor="middle">Instead of Direct Grants</text>
-            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle">Using MegaPI</text>
-            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
-                  fill="#ffffff" text-anchor="middle">Protocol-level incentives</text>
         </g>
 
-        <!-- Step 2 -->
-        <g transform="translate(-200,-150)">
-            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+        <!-- Convertible Grants (Top Right) - adjusted position -->
+        <g transform="translate(360,-80)">
+            <rect x="-150" y="-80" width="300" height="140" rx="20" 
                   fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
+            <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
                   fill="#ffffff" text-anchor="middle">Convertible Grants</text>
-            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle">Voluntary Reimbursement</text>
-            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Voluntary Repayment</text>
+            <text x="0" y="25" font-family="Arial, sans-serif" font-size="18" 
                   fill="#ffffff" text-anchor="middle">When Projects Mature</text>
         </g>
 
-        <!-- Step 3 -->
-        <g transform="translate(200,-150)">
-            <rect x="-200" y="-100" width="400" height="160" rx="20" 
+        <!-- Gardens (Bottom Right) - further out -->
+        <g transform="translate(196,270)">
+            <rect x="-150" y="-80" width="300" height="140" rx="20" 
                   fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
-                  fill="#ffffff" text-anchor="middle">Gardens Governance</text>
-            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
-                  fill="#ffffff" text-anchor="middle">Decentralized Decision</text>
-            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
-                  fill="#ffffff" text-anchor="middle">Making Process</text>
-        </g>
-
-        <!-- Step 4 -->
-        <g transform="translate(600,-150)">
-            <rect x="-200" y="-100" width="400" height="160" rx="20" 
-                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
-            <text x="0" y="-60" font-family="Arial, sans-serif" font-size="32" 
-                  fill="#ffffff" text-anchor="middle">Continuous Funding</text>
-            <text x="0" y="-20" font-family="Arial, sans-serif" font-size="24" 
+            <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle">Continuous Eligibility</text>
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
                   fill="#ffffff" text-anchor="middle">Conviction Voting</text>
-            <text x="0" y="20" font-family="Arial, sans-serif" font-size="20" 
-                  fill="#ffffff" text-anchor="middle">For Eligibility</text>
+            <text x="0" y="25" font-family="Arial, sans-serif" font-size="18" 
+                  fill="#ffffff" text-anchor="middle">via Gardens Platform</text>
         </g>
 
-        <!-- Connecting arrows -->
-        <path d="M -400,-150 L -200,-150" stroke="#4CAF50" stroke-width="2" marker-end="url(#arrowhead)"/>
-        <path d="M 0,-150 L 200,-150" stroke="#4CAF50" stroke-width="2" marker-end="url(#arrowhead)"/>
-        <path d="M 400,-150 L 600,-150" stroke="#4CAF50" stroke-width="2" marker-end="url(#arrowhead)"/>
+        <!-- Continuous Funding (Bottom Left) - further out -->
+        <g transform="translate(-196,270)">
+            <rect x="-150" y="-80" width="300" height="140" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle">Continuous Funding</text>
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Experiments with Funding</text>
+            <text x="0" y="25" font-family="Arial, sans-serif" font-size="18" 
+                  fill="#ffffff" text-anchor="middle">Continuous Support</text>
+        </g>
+
+        <!-- Slashing (Top Left) - adjusted position -->
+        <g transform="translate(-360,-80)">
+            <rect x="-150" y="-80" width="300" height="140" rx="20" 
+                  fill="#2a2a3e" stroke="#4CAF50" stroke-width="2"/>
+            <text x="0" y="-45" font-family="Arial, sans-serif" font-size="28" 
+                  fill="#ffffff" text-anchor="middle">Slashing Mechanism</text>
+            <text x="0" y="-10" font-family="Arial, sans-serif" font-size="24" 
+                  fill="#ffffff" text-anchor="middle">Risk Management</text>
+            <text x="0" y="25" font-family="Arial, sans-serif" font-size="18" 
+                  fill="#ffffff" text-anchor="middle">Accountability</text>
+        </g>
+
+        <!-- Connecting curved arrows - made bigger -->
+        <path d="M 0,-150 A 150,150 0 0,1 142,49" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+        <path d="M 142,49 A 150,150 0 0,1 -142,49" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+        <path d="M -142,49 A 150,150 0 0,1 0,-150" stroke="#4CAF50" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
 
         <!-- Arrow marker definition -->
         <defs>
@@ -71,11 +91,23 @@
                 <polygon points="0 0, 10 3.5, 0 7" fill="#4CAF50"/>
             </marker>
         </defs>
+
+        <!-- Subtle glow effect -->
+        <circle cx="0" cy="0" r="320" 
+                fill="url(#radialGradient)" opacity="0.1"/>
+        
+        <!-- Gradient definition -->
+        <defs>
+            <radialGradient id="radialGradient" cx="0.5" cy="0.5" r="0.5">
+                <stop offset="0%" stop-color="#4CAF50" stop-opacity="0.3"/>
+                <stop offset="100%" stop-color="#4CAF50" stop-opacity="0"/>
+            </radialGradient>
+        </defs>
     </g>
 
     <!-- Description text at bottom -->
     <text x="960" y="920" font-family="Arial, sans-serif" font-size="24" 
           fill="#ffffff" text-anchor="middle">
-        Experimental approach to sustainable public goods funding
+        Experimental approach to sustainable public goods funding through innovative mechanisms
     </text>
 </svg> 
