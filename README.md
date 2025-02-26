@@ -1,10 +1,13 @@
 # HyperDeSci 🧠🔬📖 by LunCo
 
 ## Vision
-To accelerate space exploration and sustainable lunar settlement through a web3 hyperstructure that fuels DeSci projects.
 
-## Current Phase: $MEGAPI Launch
+Summoning HyperStructures to fund DeSci projects.
+
+## Current Experiment: $MEGAPI Launch
 We're evolving from traditional QF rounds to a Continuous Convertible Grants Framework (CCGF) powered by the $MEGAPI token.
+
+Read [CCGF Whitepaper](./CCGF_WHITEPAPER.MD) to learn more about the framework.
 
 ### Key Features
 - Continuous funding streams
@@ -13,10 +16,15 @@ We're evolving from traditional QF rounds to a Continuous Convertible Grants Fra
 - Community-driven project selection
 
 ### Token Economics
-Total Supply: 3,141,593 $MEGAPI (π × 10^6)
 Initial Liquidity: ~0.15 ETH
+Token will be launched on Base as fairlaunch, with 10% of the supply being distributed to the community and 90% in treasury.
 
-[View Full Tokenomics](./TOKENOMICS.md)
+## Governance Rights
+- Minimum Stake: 10,000 $MEGAPI
+- Treasury Contribution: 1,000 $MEGAPI
+- Initial Target: 10 members
+  - Expected Total Stake: 100,000 $MEGAPI
+  - Treasury Contribution: 10,000 $MEGAPI
 
 ## How to Participate
 
@@ -25,14 +33,11 @@ Initial Liquidity: ~0.15 ETH
 - Contribute 1,000 $MEGAPI to treasury
 - Full governance rights
 
-[Learn More About Participation](./PARTICIPATION.md)
-
 ### 2. Apply for Funding
 - DeSci projects
 - Open-source commitment
 - Community engagement
 
-[View Governance Details](./GOVERNANCE.md)
 
 ## Community
 - [Telegram Channel](https://t.me/hyperdesci)
@@ -41,16 +46,7 @@ Initial Liquidity: ~0.15 ETH
 
 ## Documentation
 - [CCGF Whitepaper](./CCGF_WHITEPAPER.MD)
-- [Past Rounds Overview](./ROUNDS_OVERVIEW.md)
-- [Governance Framework](./GOVERNANCE.md)
-- [How to Participate](./PARTICIPATION.md)
-- [Token Economics](./TOKENOMICS.md)
-
-## Previous Rounds
-Successfully completed two QF rounds:
-- Round One: $3,855 raised, 24 projects
-- Round Two: Focus on Scroll chain
-[View Full Rounds History](./ROUNDS_OVERVIEW.md)
+- [Past Rounds Overview](./reports/)
 
 ## Resources
 - [What is QF?](https://qf.gitcoin.co)

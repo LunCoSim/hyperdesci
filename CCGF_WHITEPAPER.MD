@@ -130,7 +130,7 @@ To test the vision in practice, we will launch a new experimental funding mechan
 
 ### Tokenomics
 
-- **Total Supply:** π * 10^6 **$MEGAPI**
+- **Total Supply:** fairlaunch 10% of the supply will be distributed to the community and 90% in treasury
 - **Current HyperDeSci Treasury:** 0.15 ETH
 - **Token Utility:**
   - Governance rights
