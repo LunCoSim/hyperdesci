@@ -11,6 +11,10 @@ If you are new to *Web3* and these terms, we suggest to start reading the [Appen
 
 This is an evolving experiment, starting with the launch of **$MEGAPI** token and *Gardens*-based governance.
 
+WARNING: As with any experimental framework, there are risks involved, and lot's of missing pieces will be determined through the governance process. Please read the [Appendix 2: Risk Factors](#appendix-2-risk-factors) before participating.
+
+Check [Appendix 3](#appendix-3-first-experiments) for the first experiments we have in mind.
+
 ---
 
 ## Executive Summary
@@ -28,38 +32,35 @@ This framework describes a perpetual grants mechanism for *decentralized science
 ## Table of Contents
 
 1. [The Vision](#the-vision)
-   - Problem Statement
-   - New Paradigm
+   - Key Differentiators
+   - Key Principles
 
 2. [Core Innovation](#core-innovation)
-   - Continuous Over Discrete
-   - Aligned Incentives
+   - Continuous Funding
+   - Convertible Returns
    - Low-Attention Governance
+   - Robust Slashing Mechanisms
+   - Aligned Incentives
 
 3. [The Mechanism](#the-mechanism)
-   - Token-Tied Matching Pool
-   - Flywheel Effect
+   - [Funding Streams](#funding-streams)
+   - [Convertible Returns Process](#convertible-returns-process)
+   - [Governance Model](#governance-model)
+   - [Slashing Mechanisms](#slashing-mechanisms)
+   - [Incentive Alignment](#incentive-alignment)
 
-4. [Implementation: HyperDeSci Experiment Three: $MEGAPI](#implementation-hyperdesci-experiment-three-megapi)
-   - How to Participate in Gardens
-   - General Eligibility Selection Process
-   - Funding Experiments Selection
-   - First Experiments
-
-5. [HyperStructure Properties](#hyperstructure-properties)
-   - Current Properties
-   - Areas for Further Development
-
-6. [Appendices](#appendices)
+4. [Appendices](#appendices)
    - [Appendix 1: Glossary & Key Concepts](#appendix-1-glossary--key-concepts)
    - [Appendix 2: Risk Factors](#appendix-2-risk-factors)
+   - [Appendix 3: First Experiments](#appendix-3-first-experiments)
+     - [Streaming QF](#streaming-qf)
+     - [DeSci Builder Support](#desci-builder-support)
+     - [$MEGAPI Marketing & Operations](#megapi-marketing--operations)
 
-7. [References & Resources](#references--resources)
+5. [References & Resources](#references--resources)
    - Concepts
-   - Inspirational Projects
+   - Projects
    - Contact & Community
-
-8. [Implementation Roadmap](#implementation-roadmap)
 
 ---
 
@@ -75,7 +76,7 @@ To bridge the gap to sustainable funding of public goods, we propose a new parad
 - **Continuous Funding**: Unlike grant rounds with fixed windows, CCGF streams support in real-time.
 - **Convertible Returns**: Successful projects repay or share success back to the treasury, fueling future projects.
 - **Low-Attention Governance**: Powered by conviction voting, limiting the need for constant oversight.
-- **Robust Slashing Mechanisms**: Projects that fail to meet obligations or break rules risk losing staked tokens.
+- **Robust Slashing Mechanisms**: Those who nominated projects that violated the rules risk losing staked tokens.
 - **Aligned Incentives**: Ecosystem token staking ensures that the community and funded projects share both risk and reward.
 
 ### Key principles
@@ -140,8 +141,8 @@ To test the vision in practice, we will launch a new experimental funding mechan
 
 1. For governance, join *Gardens* (link TBD)
 2. Sign the ecosystem covenant
-3. Stake **$MEGAPI** tokens in support of a proposal
-   - Minimum 1k **$MEGAPI** per proposal
+3. Stake **$MEGAPI** tokens to participate in governance
+   - Minimum 1k **$MEGAPI**
    - 10% of staked **$MEGAPI** goes to treasury
 
 ### Governance Framework
@@ -196,16 +197,6 @@ CCGF aims to support various continuous funding mechanisms. To find the most eff
 2. Once the proposal receives sufficient support from ecosystem stakeholders (e.g., 33% of the staked **$MEGAPI** tokens), the funding experiment begins. 
 
 3. After launch, projects can apply to receive funding through this specific mechanism.
-
-### First experiments
-
-For example, a funding experiment might test:
-
-1. **Streaming QF:** Real-time quadratic funding distribution
-2. **Builder support:** Direct funding similar to [Commons Protocol](https://www.commonsprotocol.xyz/)
-3. **Community staking:** Stake-weighted funding allocation
-
-Suggestions are welcome.
 
 ## HyperStructure Properties
 
@@ -283,7 +274,7 @@ These improvements will be developed through community governance and experiment
 
 - **HyperDeSci Treasury**: The treasury of the **HyperDeSci** ecosystem, holding **$MEGAPI** tokens and other ecosystem tokens.
 
-### Appendix 2: Risk Factors
+## Appendix 2: Risk Factors
 
 **Participants should be aware that:**
 
@@ -311,16 +302,37 @@ All participants acknowledge these risks when joining the ecosystem. The project
 
 - Reduced through transparent, on-chain voting and time-weighted conviction mechanisms
 
+## Appendix 3: First experiments
+
+We already have experiments in mind!
+
+### Streaming QF
+
+We plan to dedicate XXX% of treasury to Streaming QF, that will last for YYY days. To get to the experiment the nominated projects would have to get at least ZZZ conviction votes from the community.
+
+The exact number will be voted
+
+### DeSci Builder support
+
+Direct funding similar to [Commons Protocol](https://www.commonsprotocol.xyz/).
+
+DeScier will apply for support, and will be able to claim daily rewards. We gonna dedicate a portion of the treasury to this experiment, and it'll be dried the experiment will stop
+
+
+### $MEGAPI Marketing & Operations
+
+To sustain activities and reward active participants, we plan to dedicate a portion of the treasury to this experiment. The exact procedure will be voted.
+
 ## References & Resources
 
-#### Concepts
+### Concepts
 1. [What is Quadratic Funding](https://www.wtfisqf.com/)
 2. [StreamingQF](https://github.com/Geo-Web-Project/streaming-quadratic-funding)
 3. [Web3 HyperStructures](https://jacob.energy/hyperstructures.html)
 4. [Greenpilled: How crypto can regenerate the world](https://greenpill.network/pdf/green-pill.pdf)
 5. [Onchain Capital Allocation](https://greenpill.network/pdf/onchain-capital-allocation-v2.pdf)
 
-#### Projects
+### Projects
 1. [Gitcoin](https://gitcoin.co/)
 2. [Giveth](https://giveth.io/)
 3. [MoonDAO dePrize](https://www.moondao.com/)
@@ -328,7 +340,7 @@ All participants acknowledge these risks when joining the ecosystem. The project
 4. [Octant](https://octant.xyz/)
 5. [Commons Protocol](https://www.commonsprotocol.xyz/)
 
-#### Contact & Community
+### Contact & Community
 
 - Twitter: [@HyperDeSci](https://x.com/hyperdesci)
 - Telegram: [Join HyperDeSci](https://t.me/hyperdesci)
