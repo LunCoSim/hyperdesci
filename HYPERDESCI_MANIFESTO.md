@@ -17,7 +17,6 @@ Traditional science funding is inefficient. We're building a community-driven al
 **GIVE FIRST**
 - We build public infrastructure to benefit humanity
 
-
 **COMMUNITY OVER COMPETITION**
 - We celebrate each other's breakthroughs
 

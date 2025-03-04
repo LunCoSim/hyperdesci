@@ -15,7 +15,7 @@ The old ways of funding science are BORING and SLOW! We're building something be
 
 ## THE MEGAPI WAY
 
-**GIVE FIRST, ASK LATER!** 🎁
+**GIVE FIRST!** 🎁
 - We build cool stuff that helps EVERYONE
 
 **FRIENDS NOT FOES!** 👫
