@@ -1,8 +1,8 @@
-# HyperDeSci 🧠🔬📖 by LunCo
+# HyperDeSci 🧠🔬📖
 
 ## Vision
 
-Summoning HyperStructures to fund DeSci projects.
+HyperStructures to fund DeSci.
 
 ## Current Experiment: $MEGAPI Launch
 We're evolving from traditional QF rounds to a Continuous Convertible Grants Framework (CCGF) powered by the $MEGAPI token.
@@ -41,7 +41,7 @@ Token will be launched on Base as fairlaunch, with 10% of the supply being distr
 
 ## Community
 - [Telegram Channel](https://t.me/hyperdesci)
-- [Twitter @HyperDeSci](https://twitter.com/hyperdesci)
+- [Twitter @HyperDeSci](https://x.com/hyperdesci)
 - [DeWork Tasks](https://app.dework.xyz/hyperdesci)
 
 ## Documentation
