@@ -1,18 +1,17 @@
 # THE HYPERDESCI MANIFESTO 🧪🚀
 ## SCIENCE TO THE MOON! 🌙
 
-## WE'RE BUILDING THE SCIENCE COMMONS TOGETHER!
-
 MEGAPI is the rocket fuel powering the next scientific revolution!
-We're souvereing individuals who know that when science wins, we ALL win! 
+We're sovereign individuals who know that when science wins, we ALL win! 
+
 
 ## WHY WE'RE HERE
 
-The old ways of funding science are BORING and SLOW! We're building something better:
+The old ways of funding science are SLOW and INEFFICIENT! Every MEGAPI token:
 
-- Science gets funded in REAL-TIME by REAL PEOPLE 🔬
+- Funds real science in REAL-TIME🔬
+- Gives you governance power 🗳️
 - When science wins, MEGAPI grows! 📈
-- 1 MEGAPI = SCIENCE! 🥧
 
 ## THE MEGAPI WAY
 
@@ -23,7 +22,7 @@ The old ways of funding science are BORING and SLOW! We're building something be
 - When you win, I win. When I win, you win!
 
 **SCIENCE GOES BRRRRR!** 🔭
-- We don't care about charts, we care about BREAKTHROUGHS!
+- We don't care about charts, we care about BREAKTHROUGHS! 📈
 
 ## HOW TO MEGAPI
 
@@ -35,4 +34,6 @@ The old ways of funding science are BORING and SLOW! We're building something be
 
 ## THE UNSTOPPABLE SCIENCE MACHINE
 
-We're building a science engine that runs forever, costs almost nothing, creates MASSIVE value, and gets bigger through memes and community! TO THE MOON... AND BEYOND! 🚀✨
+We're building a science engine that runs forever, costs almost nothing, creates MASSIVE value, and gets bigger through fun and community spirit! 
+
+TO THE MOON... AND BEYOND! 🚀✨
