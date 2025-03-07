@@ -154,8 +154,11 @@ To test the vision in practice, we will launch a new experimental funding mechan
    - Framework improvements
 
 2. **Voting Process:**
-   - Conviction voting with time-weighted voting power
-   - **Minimum voting period:** [X] days
+   All changes to the system will be discussed and voted on by the community through Gardens. The community will determine the appropriate voting period and requirements based on the importance of each proposal.
+   
+   Key principle: More important changes need more discussion and broader agreement.
+
+   The stewards have the executive authority to implement the decision
 
 3. **Proposal Requirements:**
    - Detailed impact assessment
