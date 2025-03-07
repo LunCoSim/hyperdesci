@@ -3,7 +3,9 @@
 
 ## WE'RE BUILDING THE SCIENCE COMMONS TOGETHER!
 
-MEGAPI isn't just a token - it's a movement! We're a community of believers who know that when science wins, we ALL win! 
+MEGAPI is the rocket fuel powering the next scientific revolution!
+
+We're a community of believers who know that when science wins, we ALL win! 
 
 ## WHY WE'RE HERE
 
