@@ -4,8 +4,7 @@
 ## WE'RE BUILDING THE SCIENCE COMMONS TOGETHER!
 
 MEGAPI is the rocket fuel powering the next scientific revolution!
-
-We're a community of believers who know that when science wins, we ALL win! 
+We're souvereing individuals who know that when science wins, we ALL win! 
 
 ## WHY WE'RE HERE
 
